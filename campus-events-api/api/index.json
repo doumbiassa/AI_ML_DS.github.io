@@ -1,0 +1,12 @@
+{
+ "name": "Campus Events API (static mirror)",
+ "version": "1.2",
+ "endpoints": {
+  "events": "events/page-1.json (follow meta.next)",
+  "organizations": "organizations.json"
+ },
+ "notes": [
+  "Times are ISO 8601 with offset; some legacy records use epoch milliseconds.",
+  "Pages are generated nightly; overlapping records between pages are possible."
+ ]
+}

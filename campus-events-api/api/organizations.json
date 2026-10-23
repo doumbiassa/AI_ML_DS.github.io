@@ -1,0 +1,84 @@
+{
+ "organizations": [
+  {
+   "org_id": "ORG-001",
+   "name": "Data Science Society",
+   "type": "Academic"
+  },
+  {
+   "org_id": "ORG-002",
+   "name": "Black Engineers Collective",
+   "type": "Professional"
+  },
+  {
+   "org_id": "ORG-003",
+   "name": "Chess Club",
+   "type": "Recreation"
+  },
+  {
+   "org_id": "ORG-004",
+   "name": "Robotics Team",
+   "type": "Academic"
+  },
+  {
+   "org_id": "ORG-005",
+   "name": "Gospel Choir",
+   "type": "Arts"
+  },
+  {
+   "org_id": "ORG-006",
+   "name": "Entrepreneurs Network",
+   "type": "Professional"
+  },
+  {
+   "org_id": "ORG-007",
+   "name": "Film Society",
+   "type": "Arts"
+  },
+  {
+   "org_id": "ORG-008",
+   "name": "Hiking & Outdoors",
+   "type": "Recreation"
+  },
+  {
+   "org_id": "ORG-009",
+   "name": "Math Circle",
+   "type": "Academic"
+  },
+  {
+   "org_id": "ORG-010",
+   "name": "Poetry Collective",
+   "type": "Arts"
+  },
+  {
+   "org_id": "ORG-011",
+   "name": "African Students Association",
+   "type": "Cultural"
+  },
+  {
+   "org_id": "ORG-012",
+   "name": "Caribbean Students Association",
+   "type": "Cultural"
+  },
+  {
+   "org_id": "ORG-013",
+   "name": "Esports League",
+   "type": "Recreation"
+  },
+  {
+   "org_id": "ORG-014",
+   "name": "Pre-Med Society",
+   "type": "Professional"
+  },
+  {
+   "org_id": "ORG-015",
+   "name": "Debate Union",
+   "type": "Academic"
+  },
+  {
+   "org_id": "ORG-016",
+   "name": "Women in Computing",
+   "type": "Professional"
+  }
+ ]
+}

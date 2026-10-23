@@ -1,0 +1,7584 @@
+{
+ "meta": {
+  "page": 5,
+  "per_page": 50,
+  "total": 580,
+  "pages": 12,
+  "next": "page-6.json",
+  "generated_at": "2025-12-15T08:00:00Z"
+ },
+ "data": [
+  {
+   "id": "EV-1201",
+   "title": "Night of Jazz",
+   "category": "Meeting",
+   "starts_at": "2025-09-11T12:00:00-04:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "The Yard",
+    "building": "Outdoor",
+    "room": null,
+    "capacity": 2000
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-013",
+    "name": "Esports League",
+    "contact": {
+     "email": "esports@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "finance",
+    "health",
+    "music"
+   ],
+   "ticket": {
+    "price": 3.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@10450317",
+     "registered_at": "2025-09-04T20:10:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@18572569",
+     "registered_at": "2025-09-10T03:39:53-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25123020",
+     "registered_at": "2025-09-02T04:27:49-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@84948020",
+     "registered_at": "2025-09-10T22:51:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@67051876",
+     "registered_at": "2025-09-08T19:20:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25197177",
+     "registered_at": "2025-09-02T10:32:17-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@43863114",
+     "registered_at": "2025-08-28T19:15:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12751212",
+     "registered_at": "2025-09-08T17:16:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@72550019",
+     "registered_at": "2025-08-31T18:04:02-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@32841506",
+     "registered_at": "2025-09-06T13:31:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25598954",
+     "registered_at": "2025-08-30T04:01:27-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@72224593",
+     "registered_at": "2025-08-29T11:39:02-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@67250453",
+     "registered_at": "2025-09-01T23:20:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16480501",
+     "registered_at": "2025-09-04T06:18:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92002417",
+     "registered_at": "2025-09-04T22:40:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11109941",
+     "registered_at": "2025-08-28T21:11:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@57937287",
+     "registered_at": "2025-09-07T01:53:13-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@44805385",
+     "registered_at": "2025-09-10T14:06:43-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@52750570",
+     "registered_at": "2025-09-10T21:38:15-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22954988",
+     "registered_at": "2025-08-29T13:08:58-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@63577157",
+     "registered_at": "2025-09-03T11:34:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@79140284",
+     "registered_at": "2025-08-31T01:55:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@39478294",
+     "registered_at": "2025-09-09T00:37:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@96056029",
+     "registered_at": "2025-09-07T07:32:53-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@59422862",
+     "registered_at": "2025-08-29T14:14:04-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33208668",
+     "registered_at": "2025-09-10T22:33:07-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@13589569",
+     "registered_at": "2025-08-30T15:16:43-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25811598",
+     "registered_at": "2025-09-04T19:39:50-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20921814",
+     "registered_at": "2025-09-02T04:16:00-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82909677",
+     "registered_at": "2025-09-07T19:46:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@35236185",
+     "registered_at": "2025-09-10T05:07:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@32511826",
+     "registered_at": "2025-08-31T04:12:17-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@39403141",
+     "registered_at": "2025-08-31T04:35:09-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@66126263",
+     "registered_at": "2025-08-30T23:13:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@98213058",
+     "registered_at": "2025-08-30T13:28:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71030008",
+     "registered_at": "2025-09-01T21:23:24-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1202",
+   "title": "Night of Chess",
+   "category": "Meeting",
+   "starts_at": "2025-09-25T20:30:00-04:00",
+   "duration_minutes": 180,
+   "status": "cancelled",
+   "venue": {
+    "name": "Douglass Hall 116",
+    "building": "Douglass Hall",
+    "room": "116",
+    "capacity": 90
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-013",
+    "name": "Esports League",
+    "contact": {
+     "email": "esports@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "career",
+    "health",
+    "python"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@96920811",
+     "registered_at": "2025-09-21T05:27:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63073217",
+     "registered_at": "2025-09-22T11:58:18-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@32656741",
+     "registered_at": "2025-09-25T02:45:11-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@98984648",
+     "registered_at": "2025-09-19T19:48:11-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@66834341",
+     "registered_at": "2025-09-17T09:16:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82020714",
+     "registered_at": "2025-09-17T12:35:17-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@88185801",
+     "registered_at": "2025-09-14T10:22:05-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@35236185",
+     "registered_at": "2025-09-22T00:28:18-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47721304",
+     "registered_at": "2025-09-21T11:04:41-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1203",
+   "title": "Intro to Chess",
+   "category": "Meeting",
+   "starts_at": "2025-08-31T21:00:00-04:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-010",
+    "name": "Poetry Collective",
+    "contact": {
+     "email": "poetry@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": "0.00",
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@61716200",
+     "registered_at": "2025-08-21T21:07:26-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@88046363",
+     "registered_at": "2025-08-23T23:59:02-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86933712",
+     "registered_at": "2025-08-22T18:49:18-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78033649",
+     "registered_at": "2025-08-27T18:50:05-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@85240858",
+     "registered_at": "2025-08-23T23:45:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@73803613",
+     "registered_at": "2025-08-20T04:38:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22500359",
+     "registered_at": "2025-08-18T05:04:09-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@43886202",
+     "registered_at": "2025-08-21T14:29:23-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@91487624",
+     "registered_at": "2025-08-23T03:10:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74626152",
+     "registered_at": "2025-08-25T00:39:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87589729",
+     "registered_at": "2025-08-19T05:38:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@68912739",
+     "registered_at": "2025-08-28T17:59:09-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@90304351",
+     "registered_at": "2025-08-21T03:41:18-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1204",
+   "title": "Annual Data Viz",
+   "category": "Hackathon",
+   "starts_at": "2025-12-09T05:00:00-05:00",
+   "duration_minutes": 90,
+   "status": "scheduled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-009",
+    "name": "Math Circle",
+    "contact": {
+     "email": "math@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "finance"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@82004444",
+     "registered_at": "2025-11-26T06:46:13-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@67834848",
+     "registered_at": "2025-12-06T08:17:57-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@20792519",
+     "registered_at": "2025-12-07T00:59:35-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@65457199",
+     "registered_at": "2025-11-30T18:45:51-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56156850",
+     "registered_at": "2025-11-28T04:03:33-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23252882",
+     "registered_at": "2025-12-04T03:53:26-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27870580",
+     "registered_at": "2025-11-29T12:31:28-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@10833667",
+     "registered_at": "2025-12-08T02:16:04-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38442262",
+     "registered_at": "2025-12-07T04:51:36-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@29948674",
+     "registered_at": "2025-12-02T07:40:16-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@70664046",
+     "registered_at": "2025-12-02T06:17:01-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@91196398",
+     "registered_at": "2025-12-03T12:06:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71126748",
+     "registered_at": "2025-12-02T19:15:25-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54242507",
+     "registered_at": "2025-12-06T04:49:42-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11398143",
+     "registered_at": "2025-12-08T09:34:50-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@74219223",
+     "registered_at": "2025-12-01T20:16:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63465146",
+     "registered_at": "2025-12-07T00:37:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76818713",
+     "registered_at": "2025-12-07T08:16:58-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27192514",
+     "registered_at": "2025-11-28T08:52:08-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@56503142",
+     "registered_at": "2025-12-06T02:44:02-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@77560324",
+     "registered_at": "2025-12-03T04:48:18-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@21560253",
+     "registered_at": "2025-12-04T14:48:22-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@42478111",
+     "registered_at": "2025-11-28T20:46:27-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@91251022",
+     "registered_at": "2025-12-03T15:48:36-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90594688",
+     "registered_at": "2025-11-25T06:27:44-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@60717183",
+     "registered_at": "2025-11-29T19:16:54-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@81314944",
+     "registered_at": "2025-11-30T08:03:10-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86409451",
+     "registered_at": "2025-12-02T09:50:18-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@69493562",
+     "registered_at": "2025-12-04T19:45:03-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@92064355",
+     "registered_at": "2025-11-27T22:29:11-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38026606",
+     "registered_at": "2025-11-27T13:09:49-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38102690",
+     "registered_at": "2025-11-29T03:53:48-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14630359",
+     "registered_at": "2025-12-01T21:33:12-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58065283",
+     "registered_at": "2025-11-25T11:43:00-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@69355894",
+     "registered_at": "2025-12-03T14:06:29-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@44385109",
+     "registered_at": "2025-12-03T10:16:27-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76565194",
+     "registered_at": "2025-12-07T23:34:05-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@75773988",
+     "registered_at": "2025-11-30T23:04:51-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@68414150",
+     "registered_at": "2025-12-01T15:07:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25651788",
+     "registered_at": "2025-12-03T16:50:24-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1205",
+   "title": "Advanced Jazz",
+   "category": "Competition",
+   "starts_at": 1760455800000,
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": {
+    "name": "Douglass Hall 116",
+    "building": "Douglass Hall",
+    "room": "116",
+    "capacity": 90
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-006",
+    "name": "Entrepreneurs Network",
+    "contact": {
+     "email": "entrepreneurs@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@10832522",
+     "registered_at": "2025-10-07T03:51:37-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@10955679",
+     "registered_at": "2025-10-02T23:16:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@24565080",
+     "registered_at": "2025-10-01T22:39:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38640959",
+     "registered_at": "2025-10-08T23:51:53-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72189213",
+     "registered_at": "2025-10-05T06:20:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@98131634",
+     "registered_at": "2025-10-07T19:27:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38835421",
+     "registered_at": "2025-10-03T17:31:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@37126402",
+     "registered_at": "2025-10-08T20:16:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86055127",
+     "registered_at": "2025-10-06T00:29:43-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22840744",
+     "registered_at": "2025-10-06T21:04:09-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@98093364",
+     "registered_at": "2025-10-10T11:44:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78527457",
+     "registered_at": "2025-10-10T13:41:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@48363225",
+     "registered_at": "2025-10-09T02:30:38-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@12278075",
+     "registered_at": "2025-10-07T03:39:43-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@29247221",
+     "registered_at": "2025-10-01T23:38:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34767845",
+     "registered_at": "2025-10-02T13:18:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@42270921",
+     "registered_at": "2025-10-10T10:18:31-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@65564890",
+     "registered_at": "2025-10-08T15:45:23-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@97603327",
+     "registered_at": "2025-10-03T11:22:56-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54578377",
+     "registered_at": "2025-10-07T01:56:58-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@92679606",
+     "registered_at": "2025-10-05T07:02:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43402553",
+     "registered_at": "2025-10-13T07:36:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87253259",
+     "registered_at": "2025-10-13T12:10:25-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@26532814",
+     "registered_at": "2025-10-06T06:27:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84750423",
+     "registered_at": "2025-10-06T14:19:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@12173780",
+     "registered_at": "2025-10-03T02:08:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86632869",
+     "registered_at": "2025-10-14T00:54:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@35107184",
+     "registered_at": "2025-10-04T01:58:51-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50858670",
+     "registered_at": "2025-10-08T10:23:48-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1206",
+   "title": "Spring Career Prep",
+   "category": "Competition",
+   "starts_at": "2025-09-10T05:30:00-04:00",
+   "duration_minutes": 120,
+   "status": "cancelled",
+   "venue": null,
+   "online_url": "https://meet.example.edu/5310796",
+   "organizer": {
+    "org_id": "ORG-005",
+    "name": "Gospel Choir",
+    "contact": {
+     "email": "gospel@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": "10.00",
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@78096522",
+     "registered_at": "2025-09-05T10:53:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78039807",
+     "registered_at": "2025-09-02T19:03:18-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@41270418",
+     "registered_at": "2025-09-03T09:23:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17181927",
+     "registered_at": "2025-09-08T02:48:58-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@37979447",
+     "registered_at": "2025-09-05T01:45:23-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1207",
+   "title": "Spring Chess",
+   "category": "Competition",
+   "starts_at": "2025-10-06T19:00:00-04:00",
+   "duration_minutes": 120,
+   "status": "completed",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-007",
+    "name": "Film Society",
+    "contact": {
+     "email": "film@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@68399241",
+     "registered_at": "2025-09-29T18:48:06-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@84275948",
+     "registered_at": "2025-09-29T22:25:05-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@56625239",
+     "registered_at": "2025-09-27T01:37:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@55918528",
+     "registered_at": "2025-09-29T04:55:48-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@32717311",
+     "registered_at": "2025-09-23T01:32:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72871980",
+     "registered_at": "2025-09-25T22:34:19-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@24766569",
+     "registered_at": "2025-09-29T17:57:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86757352",
+     "registered_at": "2025-09-25T17:35:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@67215438",
+     "registered_at": "2025-10-06T07:49:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94591265",
+     "registered_at": "2025-09-28T07:03:07-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@28787254",
+     "registered_at": "2025-09-24T23:00:54-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@40347204",
+     "registered_at": "2025-10-03T12:53:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90600081",
+     "registered_at": "2025-09-23T03:49:32-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62023518",
+     "registered_at": "2025-10-05T10:54:07-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96813787",
+     "registered_at": "2025-09-24T22:10:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@85763698",
+     "registered_at": "2025-10-01T11:52:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16532284",
+     "registered_at": "2025-09-24T02:52:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74410125",
+     "registered_at": "2025-10-02T02:25:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@42456210",
+     "registered_at": "2025-09-26T05:50:05-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84948020",
+     "registered_at": "2025-10-05T18:09:39-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17276573",
+     "registered_at": "2025-10-03T06:22:24-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@29567241",
+     "registered_at": "2025-10-05T08:19:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86632869",
+     "registered_at": "2025-09-24T17:20:08-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@46730406",
+     "registered_at": "2025-09-30T01:56:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@88159759",
+     "registered_at": "2025-09-25T18:56:18-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@84994742",
+     "registered_at": "2025-09-24T14:34:42-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@38874892",
+     "registered_at": "2025-09-28T07:35:06-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@49469204",
+     "registered_at": "2025-09-23T05:25:09-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19647095",
+     "registered_at": "2025-10-01T15:55:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63564065",
+     "registered_at": "2025-10-01T17:11:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@47640635",
+     "registered_at": "2025-09-26T21:26:46-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@51412310",
+     "registered_at": "2025-09-30T06:18:05-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59925187",
+     "registered_at": "2025-09-25T05:27:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@52047159",
+     "registered_at": "2025-10-06T16:16:43-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96297573",
+     "registered_at": "2025-10-05T16:30:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51554389",
+     "registered_at": "2025-10-03T12:28:35-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@77081365",
+     "registered_at": "2025-09-22T22:20:49-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64761153",
+     "registered_at": "2025-09-23T17:02:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95020383",
+     "registered_at": "2025-09-24T01:12:59-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38102690",
+     "registered_at": "2025-09-30T03:03:58-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@82403861",
+     "registered_at": "2025-10-05T13:34:01-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@20373684",
+     "registered_at": "2025-09-28T03:01:05-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11732174",
+     "registered_at": "2025-10-06T05:31:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12177132",
+     "registered_at": "2025-10-02T00:56:58-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31900775",
+     "registered_at": "2025-10-01T04:11:27-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@94106876",
+     "registered_at": "2025-09-30T01:02:25-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@17220604",
+     "registered_at": "2025-10-04T21:00:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@70008863",
+     "registered_at": "2025-09-25T10:44:15-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51746219",
+     "registered_at": "2025-09-28T21:16:39-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@40079485",
+     "registered_at": "2025-09-27T08:57:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59610422",
+     "registered_at": "2025-10-02T20:46:06-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@97532993",
+     "registered_at": "2025-10-05T02:41:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56314764",
+     "registered_at": "2025-10-02T02:26:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@30036347",
+     "registered_at": "2025-09-24T21:26:48-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@28462333",
+     "registered_at": "2025-10-01T19:43:37-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@61431835",
+     "registered_at": "2025-09-24T10:51:22-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@71335873",
+     "registered_at": "2025-09-30T23:52:25-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27068151",
+     "registered_at": "2025-09-23T02:24:58-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64298893",
+     "registered_at": "2025-09-25T06:41:34-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@81501094",
+     "registered_at": "2025-10-01T19:20:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31991136",
+     "registered_at": "2025-09-24T02:10:56-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1208",
+   "title": "Night of Startups",
+   "category": "Competition",
+   "starts_at": 1760626800000,
+   "duration_minutes": 120,
+   "status": "cancelled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-007",
+    "name": "Film Society",
+    "contact": {
+     "email": "film@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 5.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@24925036",
+     "registered_at": "2025-10-14T13:31:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@69000192",
+     "registered_at": "2025-10-13T02:59:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@88276284",
+     "registered_at": "2025-10-04T02:19:09-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@49617949",
+     "registered_at": "2025-10-03T04:39:30-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@42225327",
+     "registered_at": "2025-10-13T06:49:07-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@13991628",
+     "registered_at": "2025-10-09T00:27:06-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94304073",
+     "registered_at": "2025-10-15T13:33:50-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31911888",
+     "registered_at": "2025-10-10T00:53:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16850418",
+     "registered_at": "2025-10-09T03:48:11-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@98122715",
+     "registered_at": "2025-10-14T09:44:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@68414150",
+     "registered_at": "2025-10-03T12:47:55-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96971970",
+     "registered_at": "2025-10-14T08:10:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@98984648",
+     "registered_at": "2025-10-04T18:46:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86335867",
+     "registered_at": "2025-10-15T08:26:17-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@70668009",
+     "registered_at": "2025-10-08T22:59:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@77390621",
+     "registered_at": "2025-10-09T16:48:53-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@41007381",
+     "registered_at": "2025-10-07T14:37:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54173142",
+     "registered_at": "2025-10-11T17:07:17-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99903817",
+     "registered_at": "2025-10-11T02:40:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74371821",
+     "registered_at": "2025-10-13T18:58:55-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74794468",
+     "registered_at": "2025-10-09T11:33:51-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12545761",
+     "registered_at": "2025-10-06T21:43:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46920105",
+     "registered_at": "2025-10-09T17:11:14-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@32149316",
+     "registered_at": "2025-10-15T11:43:20-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1209",
+   "title": "Advanced Jazz",
+   "category": "Career Fair",
+   "starts_at": "2025-10-05T03:30:00-04:00",
+   "duration_minutes": 120,
+   "status": "cancelled",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-003",
+    "name": "Chess Club",
+    "contact": {
+     "email": "chess@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@24867097",
+     "registered_at": "2025-09-25T09:47:39-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87531565",
+     "registered_at": "2025-10-02T08:05:19-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83728048",
+     "registered_at": "2025-09-29T05:42:59-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1210",
+   "title": "Advanced Chess",
+   "category": "Competition",
+   "starts_at": "2025-10-06T18:00:00-04:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": {
+    "name": "Blackburn Center Ballroom",
+    "building": "Blackburn Center",
+    "room": "Ballroom",
+    "capacity": 400
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-004",
+    "name": "Robotics Team",
+    "contact": {
+     "email": "robotics@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "culture",
+    "free food",
+    "games"
+   ],
+   "ticket": {
+    "price": 3.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@42763192",
+     "registered_at": "2025-09-24T06:14:33-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20365380",
+     "registered_at": "2025-10-01T13:17:55-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62318015",
+     "registered_at": "2025-09-27T23:34:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92749807",
+     "registered_at": "2025-10-01T05:17:55-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@61540331",
+     "registered_at": "2025-09-23T13:31:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56664385",
+     "registered_at": "2025-09-26T08:21:00-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@29885462",
+     "registered_at": "2025-10-02T04:18:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95287641",
+     "registered_at": "2025-09-28T21:14:03-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@62485331",
+     "registered_at": "2025-09-29T07:36:05-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@78096522",
+     "registered_at": "2025-09-24T11:31:41-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@80799122",
+     "registered_at": "2025-09-29T16:35:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@37750241",
+     "registered_at": "2025-09-25T08:46:08-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@81442574",
+     "registered_at": "2025-09-24T16:31:00-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74541555",
+     "registered_at": "2025-09-26T04:30:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23117270",
+     "registered_at": "2025-10-01T19:19:56-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19754562",
+     "registered_at": "2025-09-25T23:05:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12126567",
+     "registered_at": "2025-10-02T10:09:54-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@93388799",
+     "registered_at": "2025-09-26T04:43:56-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62906302",
+     "registered_at": "2025-10-04T21:14:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62350286",
+     "registered_at": "2025-09-26T08:33:05-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82938035",
+     "registered_at": "2025-09-28T17:34:58-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22840744",
+     "registered_at": "2025-10-03T10:54:11-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@32386631",
+     "registered_at": "2025-09-28T10:36:54-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36509531",
+     "registered_at": "2025-09-28T17:24:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@40842931",
+     "registered_at": "2025-10-01T04:12:17-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@37925821",
+     "registered_at": "2025-09-29T19:55:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90435962",
+     "registered_at": "2025-09-26T02:40:41-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@13168625",
+     "registered_at": "2025-10-03T20:57:41-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@10078642",
+     "registered_at": "2025-10-01T12:20:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71403844",
+     "registered_at": "2025-09-25T08:26:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12278075",
+     "registered_at": "2025-10-03T03:02:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@40768670",
+     "registered_at": "2025-10-01T18:38:02-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@86209674",
+     "registered_at": "2025-09-26T01:50:33-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@89183235",
+     "registered_at": "2025-10-06T04:53:51-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84472202",
+     "registered_at": "2025-09-28T05:30:37-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@11377972",
+     "registered_at": "2025-10-01T03:25:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@73011926",
+     "registered_at": "2025-10-01T16:43:34-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@60091007",
+     "registered_at": "2025-09-24T07:23:27-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@93186227",
+     "registered_at": "2025-10-03T07:58:11-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17512669",
+     "registered_at": "2025-09-29T13:54:51-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62023518",
+     "registered_at": "2025-09-25T23:13:47-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1211",
+   "title": "Fall Poetry",
+   "category": "Career Fair",
+   "starts_at": "2025-11-24T07:00:00-05:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-011",
+    "name": "African Students Association",
+    "contact": {
+     "email": "african@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@53377832",
+     "registered_at": "2025-11-18T19:06:47-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@29449915",
+     "registered_at": "2025-11-16T07:01:15-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@98752889",
+     "registered_at": "2025-11-11T22:21:04-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31195008",
+     "registered_at": "2025-11-16T19:54:21-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@22018586",
+     "registered_at": "2025-11-21T06:15:27-05:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1212",
+   "title": "Fall Data Viz",
+   "category": "Competition",
+   "starts_at": "2025-10-02T10:00:00-04:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-016",
+    "name": "Women in Computing",
+    "contact": {
+     "email": "women@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 5.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@36306130",
+     "registered_at": "2025-09-28T15:15:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@91557212",
+     "registered_at": "2025-09-22T00:32:07-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50391548",
+     "registered_at": "2025-09-29T04:07:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56270017",
+     "registered_at": "2025-09-30T20:11:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@41834923",
+     "registered_at": "2025-09-22T04:01:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@35352383",
+     "registered_at": "2025-09-27T23:22:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16479993",
+     "registered_at": "2025-09-27T08:32:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58944504",
+     "registered_at": "2025-09-26T05:12:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83640368",
+     "registered_at": "2025-09-30T02:05:04-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23631820",
+     "registered_at": "2025-09-19T01:44:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@18806899",
+     "registered_at": "2025-09-24T00:23:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25364638",
+     "registered_at": "2025-09-20T09:48:57-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1213",
+   "title": "Spring Film",
+   "category": "Social",
+   "starts_at": "2025-09-30T12:00:00-04:00",
+   "duration_minutes": 90,
+   "status": "cancelled",
+   "venue": {
+    "name": "Douglass Hall 116",
+    "building": "Douglass Hall",
+    "room": "116",
+    "capacity": 90
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-002",
+    "name": "Black Engineers Collective",
+    "contact": {
+     "email": "black@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@84612197",
+     "registered_at": "2025-09-24T20:59:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63191850",
+     "registered_at": "2025-09-19T15:55:53-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@27948098",
+     "registered_at": "2025-09-17T13:02:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95963818",
+     "registered_at": "2025-09-22T23:42:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@26910273",
+     "registered_at": "2025-09-27T03:32:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@52933221",
+     "registered_at": "2025-09-29T10:11:55-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@61144847",
+     "registered_at": "2025-09-25T23:04:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31278261",
+     "registered_at": "2025-09-19T02:38:04-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54126483",
+     "registered_at": "2025-09-20T17:17:10-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@67051876",
+     "registered_at": "2025-09-25T08:35:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99767223",
+     "registered_at": "2025-09-21T01:04:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54688544",
+     "registered_at": "2025-09-18T16:26:34-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@81841883",
+     "registered_at": "2025-09-23T21:37:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@10042161",
+     "registered_at": "2025-09-19T23:42:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14744574",
+     "registered_at": "2025-09-29T23:24:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86350396",
+     "registered_at": "2025-09-22T18:56:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94700213",
+     "registered_at": "2025-09-18T11:00:04-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1214",
+   "title": "Night of Startups",
+   "category": "Career Fair",
+   "starts_at": "2025-11-23T01:30:00-05:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Douglass Hall 116",
+    "building": "Douglass Hall",
+    "room": "116",
+    "capacity": 90
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-014",
+    "name": "Pre-Med Society",
+    "contact": {
+     "email": "pre-med@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "beginner-friendly",
+    "networking"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@92983155",
+     "registered_at": "2025-11-21T21:30:22-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@13015283",
+     "registered_at": "2025-11-09T03:39:54-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@40611030",
+     "registered_at": "2025-11-12T06:00:29-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@15461190",
+     "registered_at": "2025-11-09T08:47:53-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78162951",
+     "registered_at": "2025-11-09T12:39:48-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56626112",
+     "registered_at": "2025-11-19T22:25:35-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66773787",
+     "registered_at": "2025-11-16T00:05:39-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@58046251",
+     "registered_at": "2025-11-20T18:39:07-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47315186",
+     "registered_at": "2025-11-12T22:21:33-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71392409",
+     "registered_at": "2025-11-16T08:47:06-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22669135",
+     "registered_at": "2025-11-18T08:38:39-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@60586740",
+     "registered_at": "2025-11-21T01:11:07-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1215",
+   "title": "Fall Esports",
+   "category": "Workshop",
+   "starts_at": 1763915400000,
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-003",
+    "name": "Chess Club",
+    "contact": {
+     "email": "chess@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@78810553",
+     "registered_at": "2025-11-13T13:15:38-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@70768126",
+     "registered_at": "2025-11-11T02:50:50-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58676918",
+     "registered_at": "2025-11-19T02:51:21-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78145464",
+     "registered_at": "2025-11-16T21:41:48-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@57559528",
+     "registered_at": "2025-11-23T03:19:06-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33956263",
+     "registered_at": "2025-11-21T13:38:44-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@14228093",
+     "registered_at": "2025-11-18T02:00:55-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99578124",
+     "registered_at": "2025-11-16T15:20:25-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@42667478",
+     "registered_at": "2025-11-15T01:45:52-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87450887",
+     "registered_at": "2025-11-16T22:04:30-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@77390621",
+     "registered_at": "2025-11-21T12:35:05-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92749807",
+     "registered_at": "2025-11-16T01:57:54-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92142208",
+     "registered_at": "2025-11-17T19:58:16-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@69787877",
+     "registered_at": "2025-11-13T23:18:08-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1216",
+   "title": "Spring Film",
+   "category": "Workshop",
+   "starts_at": "2025-11-11T14:00:00-05:00",
+   "duration_minutes": 90,
+   "status": "scheduled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-008",
+    "name": "Hiking & Outdoors",
+    "contact": {
+     "email": "hiking@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "AI"
+   ],
+   "ticket": {
+    "price": "0.00",
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@90125869",
+     "registered_at": "2025-11-07T18:30:46-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@81442574",
+     "registered_at": "2025-11-09T22:08:29-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@18796577",
+     "registered_at": "2025-11-07T16:56:45-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@70664046",
+     "registered_at": "2025-10-29T04:13:14-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@46920105",
+     "registered_at": "2025-11-09T15:57:23-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@24438884",
+     "registered_at": "2025-11-05T02:12:11-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96223217",
+     "registered_at": "2025-11-07T02:21:41-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@74339970",
+     "registered_at": "2025-11-07T19:42:48-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@39442794",
+     "registered_at": "2025-10-28T21:57:53-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83622023",
+     "registered_at": "2025-11-10T14:03:21-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@65665694",
+     "registered_at": "2025-10-29T00:41:08-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1217",
+   "title": "Fall Film",
+   "category": "Hackathon",
+   "starts_at": 1757376000000,
+   "duration_minutes": 180,
+   "status": "scheduled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-003",
+    "name": "Chess Club",
+    "contact": {
+     "email": "chess@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "career",
+    "finance"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@57451722",
+     "registered_at": "2025-08-26T08:32:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76666368",
+     "registered_at": "2025-09-05T11:58:47-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@71085513",
+     "registered_at": "2025-09-03T03:47:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14026795",
+     "registered_at": "2025-09-07T06:59:25-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@16574395",
+     "registered_at": "2025-08-27T07:54:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87253259",
+     "registered_at": "2025-08-27T17:24:51-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17923688",
+     "registered_at": "2025-09-02T23:39:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14251318",
+     "registered_at": "2025-08-30T10:04:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@28023347",
+     "registered_at": "2025-09-05T01:54:54-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@10565413",
+     "registered_at": "2025-08-26T20:56:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17553994",
+     "registered_at": "2025-09-01T04:34:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17156659",
+     "registered_at": "2025-08-31T15:02:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@85284200",
+     "registered_at": "2025-08-26T14:46:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@61558033",
+     "registered_at": "2025-09-05T13:18:39-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51434780",
+     "registered_at": "2025-09-07T17:30:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@42801271",
+     "registered_at": "2025-09-04T20:16:29-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@84845858",
+     "registered_at": "2025-08-26T11:02:07-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31922752",
+     "registered_at": "2025-08-30T15:00:58-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@43954022",
+     "registered_at": "2025-08-31T12:57:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@44487982",
+     "registered_at": "2025-08-28T21:50:25-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71975954",
+     "registered_at": "2025-09-06T19:06:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43172234",
+     "registered_at": "2025-09-03T18:20:33-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@45333764",
+     "registered_at": "2025-09-03T07:00:11-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72948973",
+     "registered_at": "2025-09-08T08:10:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@41612746",
+     "registered_at": "2025-09-03T00:19:29-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@93282962",
+     "registered_at": "2025-09-01T08:26:59-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@94365032",
+     "registered_at": "2025-08-29T21:11:15-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@60362325",
+     "registered_at": "2025-08-29T01:08:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99107194",
+     "registered_at": "2025-09-04T01:02:13-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@59048036",
+     "registered_at": "2025-08-26T04:11:34-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@53630869",
+     "registered_at": "2025-08-27T22:07:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43795701",
+     "registered_at": "2025-08-29T16:58:53-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@37688904",
+     "registered_at": "2025-08-27T21:39:00-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@69089574",
+     "registered_at": "2025-09-05T05:38:07-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@15484231",
+     "registered_at": "2025-08-25T23:18:06-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38017275",
+     "registered_at": "2025-08-27T13:38:18-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47766614",
+     "registered_at": "2025-08-26T15:34:55-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@77946958",
+     "registered_at": "2025-09-06T00:09:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90117721",
+     "registered_at": "2025-08-30T23:45:08-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1218",
+   "title": "Advanced Film",
+   "category": "Social",
+   "starts_at": "2025-11-12T16:30:00-05:00",
+   "duration_minutes": 90,
+   "status": "scheduled",
+   "venue": {
+    "name": "Douglass Hall 116",
+    "building": "Douglass Hall",
+    "room": "116",
+    "capacity": 90
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-012",
+    "name": "Caribbean Students Association",
+    "contact": {
+     "email": "caribbean@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@79925079",
+     "registered_at": "2025-11-02T02:36:35-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87097254",
+     "registered_at": "2025-11-04T08:45:30-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50589928",
+     "registered_at": "2025-10-30T12:33:08-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@53595019",
+     "registered_at": "2025-11-08T06:00:08-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23050960",
+     "registered_at": "2025-11-07T10:32:26-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@79426551",
+     "registered_at": "2025-10-31T20:13:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@52506315",
+     "registered_at": "2025-11-02T23:15:18-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@52408906",
+     "registered_at": "2025-11-02T01:57:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12183954",
+     "registered_at": "2025-11-08T05:56:31-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@75234209",
+     "registered_at": "2025-10-31T01:24:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38436647",
+     "registered_at": "2025-11-04T11:10:28-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51836370",
+     "registered_at": "2025-10-30T19:39:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36421243",
+     "registered_at": "2025-11-10T06:46:55-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@64840607",
+     "registered_at": "2025-11-03T00:55:43-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1219",
+   "title": "Spring Poetry",
+   "category": "Career Fair",
+   "starts_at": 1764160200000,
+   "duration_minutes": 60,
+   "status": "cancelled",
+   "venue": {
+    "name": "Math Building 201",
+    "building": "Math Building",
+    "room": "201",
+    "capacity": 70
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-001",
+    "name": "Data Science Society",
+    "contact": {
+     "email": "data@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "finance",
+    "health"
+   ],
+   "ticket": {
+    "price": 10.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@98909643",
+     "registered_at": "2025-11-17T03:54:48-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@65509343",
+     "registered_at": "2025-11-19T00:19:02-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90535296",
+     "registered_at": "2025-11-19T21:29:02-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@61286516",
+     "registered_at": "2025-11-18T15:19:34-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@81442574",
+     "registered_at": "2025-11-12T08:37:22-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22667308",
+     "registered_at": "2025-11-21T11:47:00-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46284035",
+     "registered_at": "2025-11-25T12:10:44-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78229505",
+     "registered_at": "2025-11-24T11:29:47-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83047015",
+     "registered_at": "2025-11-18T12:35:41-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84912906",
+     "registered_at": "2025-11-20T08:19:58-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@69388557",
+     "registered_at": "2025-11-15T19:01:13-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@38003337",
+     "registered_at": "2025-11-15T23:11:44-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@49758586",
+     "registered_at": "2025-11-25T13:58:34-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@15906407",
+     "registered_at": "2025-11-26T04:46:29-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@39442794",
+     "registered_at": "2025-11-17T15:02:31-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84481208",
+     "registered_at": "2025-11-21T08:47:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17366012",
+     "registered_at": "2025-11-19T18:44:24-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@65564890",
+     "registered_at": "2025-11-14T13:41:11-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@95936629",
+     "registered_at": "2025-11-24T07:40:36-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74914208",
+     "registered_at": "2025-11-19T01:47:52-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@88047928",
+     "registered_at": "2025-11-12T23:40:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22934669",
+     "registered_at": "2025-11-20T03:39:40-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33189356",
+     "registered_at": "2025-11-18T12:05:46-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96501713",
+     "registered_at": "2025-11-25T23:39:17-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27851492",
+     "registered_at": "2025-11-24T23:35:18-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72167538",
+     "registered_at": "2025-11-18T13:30:14-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76724373",
+     "registered_at": "2025-11-22T10:25:06-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17923688",
+     "registered_at": "2025-11-12T17:04:05-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17648271",
+     "registered_at": "2025-11-26T00:40:01-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54746946",
+     "registered_at": "2025-11-23T11:48:28-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@50652131",
+     "registered_at": "2025-11-14T10:39:55-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64569767",
+     "registered_at": "2025-11-17T03:15:08-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@75294804",
+     "registered_at": "2025-11-13T04:06:25-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@24925036",
+     "registered_at": "2025-11-21T20:08:12-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@49869831",
+     "registered_at": "2025-11-16T15:47:34-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@75462107",
+     "registered_at": "2025-11-12T12:44:54-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@36801822",
+     "registered_at": "2025-11-17T05:57:16-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@18220816",
+     "registered_at": "2025-11-16T18:02:35-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@79170178",
+     "registered_at": "2025-11-25T09:37:20-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@21029970",
+     "registered_at": "2025-11-13T16:38:55-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@45972517",
+     "registered_at": "2025-11-21T07:13:44-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@83443081",
+     "registered_at": "2025-11-24T00:20:06-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72948973",
+     "registered_at": "2025-11-23T16:47:31-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@53374018",
+     "registered_at": "2025-11-16T06:33:37-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@35527856",
+     "registered_at": "2025-11-19T19:07:14-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@68073619",
+     "registered_at": "2025-11-15T17:29:36-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34389398",
+     "registered_at": "2025-11-12T12:50:03-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@85783746",
+     "registered_at": "2025-11-18T08:09:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95436665",
+     "registered_at": "2025-11-13T05:41:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@98309619",
+     "registered_at": "2025-11-23T08:50:13-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@41319459",
+     "registered_at": "2025-11-23T11:26:25-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@71588217",
+     "registered_at": "2025-11-25T21:00:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90936357",
+     "registered_at": "2025-11-17T17:04:24-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@21162073",
+     "registered_at": "2025-11-25T21:02:14-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66026879",
+     "registered_at": "2025-11-22T21:23:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@18613864",
+     "registered_at": "2025-11-14T05:06:11-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@23779756",
+     "registered_at": "2025-11-23T08:16:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36494745",
+     "registered_at": "2025-11-15T20:22:58-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66479777",
+     "registered_at": "2025-11-16T10:15:42-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@45611171",
+     "registered_at": "2025-11-22T10:08:47-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@91303443",
+     "registered_at": "2025-11-13T22:43:56-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@10592982",
+     "registered_at": "2025-11-21T15:39:29-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@24914660",
+     "registered_at": "2025-11-15T20:54:14-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20122922",
+     "registered_at": "2025-11-24T10:34:08-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@42453279",
+     "registered_at": "2025-11-24T02:33:32-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94935856",
+     "registered_at": "2025-11-14T03:28:43-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1220",
+   "title": "Night of Career Prep",
+   "category": "Talk",
+   "starts_at": "2025-09-17T19:00:00-04:00",
+   "duration_minutes": 180,
+   "status": "scheduled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-012",
+    "name": "Caribbean Students Association",
+    "contact": {
+     "email": "caribbean@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@10450317",
+     "registered_at": "2025-09-07T11:18:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@95980805",
+     "registered_at": "2025-09-07T15:11:02-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17610819",
+     "registered_at": "2025-09-06T07:53:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38463804",
+     "registered_at": "2025-09-16T19:19:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@93166500",
+     "registered_at": "2025-09-08T01:22:15-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83180516",
+     "registered_at": "2025-09-15T03:13:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27467482",
+     "registered_at": "2025-09-06T23:26:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@55369059",
+     "registered_at": "2025-09-10T00:51:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59636504",
+     "registered_at": "2025-09-14T21:10:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34418437",
+     "registered_at": "2025-09-04T19:03:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23981123",
+     "registered_at": "2025-09-08T22:25:09-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@54599320",
+     "registered_at": "2025-09-07T21:44:46-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@27046569",
+     "registered_at": "2025-09-16T10:12:30-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58065283",
+     "registered_at": "2025-09-06T01:46:09-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66748544",
+     "registered_at": "2025-09-10T05:41:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17395141",
+     "registered_at": "2025-09-14T15:48:31-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@77193441",
+     "registered_at": "2025-09-15T16:32:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12766431",
+     "registered_at": "2025-09-15T07:47:04-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47296878",
+     "registered_at": "2025-09-03T23:00:15-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54242507",
+     "registered_at": "2025-09-05T01:30:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96189734",
+     "registered_at": "2025-09-07T18:59:50-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22886526",
+     "registered_at": "2025-09-10T10:26:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@75588694",
+     "registered_at": "2025-09-06T15:00:11-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72224593",
+     "registered_at": "2025-09-12T14:58:32-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@32656741",
+     "registered_at": "2025-09-17T14:13:59-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27155343",
+     "registered_at": "2025-09-07T16:59:59-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@43881547",
+     "registered_at": "2025-09-07T10:10:49-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86933712",
+     "registered_at": "2025-09-11T14:43:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@15624173",
+     "registered_at": "2025-09-09T17:00:54-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@35480781",
+     "registered_at": "2025-09-14T07:59:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82385122",
+     "registered_at": "2025-09-07T14:15:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33203368",
+     "registered_at": "2025-09-17T07:27:11-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99001919",
+     "registered_at": "2025-09-05T15:14:54-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@43368145",
+     "registered_at": "2025-09-04T00:57:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33599179",
+     "registered_at": "2025-09-04T04:52:47-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@16661734",
+     "registered_at": "2025-09-16T02:29:42-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1221",
+   "title": "Fall Jazz",
+   "category": "Competition",
+   "starts_at": "2025-10-07T15:00:00-04:00",
+   "duration_minutes": 90,
+   "status": "completed",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-011",
+    "name": "African Students Association",
+    "contact": {
+     "email": "african@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "music",
+    "networking",
+    "outdoors"
+   ],
+   "ticket": {
+    "price": 10.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@16140960",
+     "registered_at": "2025-09-29T03:19:46-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@16231824",
+     "registered_at": "2025-09-29T20:32:37-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@71014615",
+     "registered_at": "2025-10-01T04:38:43-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@83598162",
+     "registered_at": "2025-09-26T13:06:15-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71986817",
+     "registered_at": "2025-09-29T23:08:49-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@49869831",
+     "registered_at": "2025-10-06T08:35:06-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43174423",
+     "registered_at": "2025-10-04T03:31:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@75276404",
+     "registered_at": "2025-10-07T00:28:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@39902605",
+     "registered_at": "2025-10-03T13:09:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@85763698",
+     "registered_at": "2025-09-27T05:17:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94591265",
+     "registered_at": "2025-09-27T21:37:00-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@17668988",
+     "registered_at": "2025-10-04T09:01:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@67603264",
+     "registered_at": "2025-09-24T18:35:15-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64840607",
+     "registered_at": "2025-10-05T21:07:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19647095",
+     "registered_at": "2025-10-06T19:25:09-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1222",
+   "title": "Intro to Career Prep",
+   "category": "Hackathon",
+   "starts_at": "2025-10-25T13:00:00-04:00",
+   "duration_minutes": 60,
+   "status": "cancelled",
+   "venue": null,
+   "online_url": "https://meet.example.edu/2353197",
+   "organizer": {
+    "org_id": "ORG-005",
+    "name": "Gospel Choir",
+    "contact": {
+     "email": "gospel@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "ticket": {
+    "price": 15.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@40885108",
+     "registered_at": "2025-10-19T10:12:02-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@94174028",
+     "registered_at": "2025-10-24T15:18:01-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87256378",
+     "registered_at": "2025-10-20T18:31:15-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@66004808",
+     "registered_at": "2025-10-24T11:43:00-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@47050215",
+     "registered_at": "2025-10-25T09:18:46-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@45940781",
+     "registered_at": "2025-10-15T01:18:47-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@75130631",
+     "registered_at": "2025-10-14T16:11:43-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@89512611",
+     "registered_at": "2025-10-12T05:52:49-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36421243",
+     "registered_at": "2025-10-24T20:53:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78834078",
+     "registered_at": "2025-10-14T10:27:02-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66087361",
+     "registered_at": "2025-10-23T15:57:50-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12378277",
+     "registered_at": "2025-10-22T23:49:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@69285662",
+     "registered_at": "2025-10-18T02:03:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76519853",
+     "registered_at": "2025-10-21T20:08:18-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@54980375",
+     "registered_at": "2025-10-25T09:19:32-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@60547455",
+     "registered_at": "2025-10-12T06:29:17-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@84210277",
+     "registered_at": "2025-10-19T14:14:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38259341",
+     "registered_at": "2025-10-23T08:57:14-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@93104281",
+     "registered_at": "2025-10-14T16:35:00-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@26134103",
+     "registered_at": "2025-10-16T03:08:30-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@14346329",
+     "registered_at": "2025-10-18T05:11:09-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@97391292",
+     "registered_at": "2025-10-24T13:24:59-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50673296",
+     "registered_at": "2025-10-14T21:17:53-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@64446062",
+     "registered_at": "2025-10-23T01:29:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@70442090",
+     "registered_at": "2025-10-20T04:58:08-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34087720",
+     "registered_at": "2025-10-22T09:07:07-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74932299",
+     "registered_at": "2025-10-13T13:45:08-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@69176179",
+     "registered_at": "2025-10-21T01:08:25-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1223",
+   "title": "Fall Data Viz",
+   "category": "Social",
+   "starts_at": "2025-10-26T08:30:00-04:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-006",
+    "name": "Entrepreneurs Network",
+    "contact": {
+     "email": "entrepreneurs@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "games",
+    "music"
+   ],
+   "ticket": {
+    "price": 3.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@95476470",
+     "registered_at": "2025-10-23T15:39:59-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@74188959",
+     "registered_at": "2025-10-14T03:06:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@42052055",
+     "registered_at": "2025-10-15T22:58:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92806187",
+     "registered_at": "2025-10-25T08:06:41-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@90350685",
+     "registered_at": "2025-10-19T08:06:39-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19094679",
+     "registered_at": "2025-10-20T20:06:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@40449489",
+     "registered_at": "2025-10-21T02:07:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@30296267",
+     "registered_at": "2025-10-20T17:03:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@18357857",
+     "registered_at": "2025-10-25T05:13:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92761010",
+     "registered_at": "2025-10-22T12:01:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94365032",
+     "registered_at": "2025-10-18T09:21:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12544265",
+     "registered_at": "2025-10-19T11:32:50-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@60100617",
+     "registered_at": "2025-10-19T23:40:52-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@95712871",
+     "registered_at": "2025-10-14T23:58:54-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76003030",
+     "registered_at": "2025-10-18T15:13:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46928323",
+     "registered_at": "2025-10-17T19:15:34-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@95152112",
+     "registered_at": "2025-10-20T15:22:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87450887",
+     "registered_at": "2025-10-17T21:13:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@24914660",
+     "registered_at": "2025-10-21T02:55:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@89519374",
+     "registered_at": "2025-10-22T05:15:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@39403141",
+     "registered_at": "2025-10-24T08:25:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99373976",
+     "registered_at": "2025-10-21T18:53:19-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12746092",
+     "registered_at": "2025-10-12T20:05:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33743136",
+     "registered_at": "2025-10-23T19:51:27-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@73991333",
+     "registered_at": "2025-10-24T00:16:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22847153",
+     "registered_at": "2025-10-12T17:18:01-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@33251439",
+     "registered_at": "2025-10-19T07:11:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@20377680",
+     "registered_at": "2025-10-23T03:25:06-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@11023082",
+     "registered_at": "2025-10-17T19:50:02-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11261342",
+     "registered_at": "2025-10-14T01:09:30-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62350286",
+     "registered_at": "2025-10-17T17:54:33-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@70386783",
+     "registered_at": "2025-10-15T02:00:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46795874",
+     "registered_at": "2025-10-23T22:48:28-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@21397104",
+     "registered_at": "2025-10-16T01:31:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12785618",
+     "registered_at": "2025-10-16T15:24:23-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@17527712",
+     "registered_at": "2025-10-15T16:43:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87516633",
+     "registered_at": "2025-10-21T16:24:08-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@49869831",
+     "registered_at": "2025-10-20T09:24:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46365123",
+     "registered_at": "2025-10-24T19:35:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@57318879",
+     "registered_at": "2025-10-20T22:51:49-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@14357718",
+     "registered_at": "2025-10-16T22:29:33-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@33046304",
+     "registered_at": "2025-10-16T12:37:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17682451",
+     "registered_at": "2025-10-22T06:49:59-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23802142",
+     "registered_at": "2025-10-14T08:37:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17181927",
+     "registered_at": "2025-10-19T09:06:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51864773",
+     "registered_at": "2025-10-15T18:13:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@30361040",
+     "registered_at": "2025-10-22T05:15:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78020436",
+     "registered_at": "2025-10-16T04:32:25-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@73364332",
+     "registered_at": "2025-10-25T09:16:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66409208",
+     "registered_at": "2025-10-20T23:53:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@52190752",
+     "registered_at": "2025-10-16T15:49:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@93379859",
+     "registered_at": "2025-10-14T10:19:48-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@85177852",
+     "registered_at": "2025-10-18T16:02:33-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@35204540",
+     "registered_at": "2025-10-24T18:25:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@65334843",
+     "registered_at": "2025-10-16T21:37:39-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@82885578",
+     "registered_at": "2025-10-24T01:24:08-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@54746946",
+     "registered_at": "2025-10-24T10:34:47-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14228093",
+     "registered_at": "2025-10-15T23:35:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@26610230",
+     "registered_at": "2025-10-13T01:40:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@77079597",
+     "registered_at": "2025-10-18T20:33:30-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1224",
+   "title": "Spring Jazz",
+   "category": "Social",
+   "starts_at": "2025-12-07T16:30:00-05:00",
+   "duration_minutes": 180,
+   "status": "scheduled",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-007",
+    "name": "Film Society",
+    "contact": {
+     "email": "film@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "beginner-friendly",
+    "music",
+    "outdoors"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@45972517",
+     "registered_at": "2025-11-29T12:41:42-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20320203",
+     "registered_at": "2025-11-28T18:58:48-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54399359",
+     "registered_at": "2025-12-04T02:19:46-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14656410",
+     "registered_at": "2025-11-24T06:42:04-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@48955317",
+     "registered_at": "2025-12-04T17:43:41-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16459342",
+     "registered_at": "2025-11-28T00:34:32-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@55741589",
+     "registered_at": "2025-11-27T17:55:19-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58095648",
+     "registered_at": "2025-11-29T17:04:40-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@32508329",
+     "registered_at": "2025-12-02T10:12:17-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19556444",
+     "registered_at": "2025-11-28T03:33:51-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@75091292",
+     "registered_at": "2025-12-05T18:04:11-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@38028106",
+     "registered_at": "2025-11-26T15:58:50-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@44401574",
+     "registered_at": "2025-11-28T03:02:45-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@91196398",
+     "registered_at": "2025-12-01T16:03:13-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46574683",
+     "registered_at": "2025-11-30T21:28:33-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@45679788",
+     "registered_at": "2025-12-05T10:26:10-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@52166415",
+     "registered_at": "2025-12-01T09:11:10-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38311659",
+     "registered_at": "2025-11-25T05:55:13-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63191850",
+     "registered_at": "2025-12-03T13:06:09-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14758562",
+     "registered_at": "2025-12-01T04:50:55-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1225",
+   "title": "Spring Career Prep",
+   "category": "Competition",
+   "starts_at": "2025-12-10T02:30:00-05:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": null,
+   "online_url": "https://meet.example.edu/1762141",
+   "organizer": {
+    "org_id": "ORG-003",
+    "name": "Chess Club",
+    "contact": {
+     "email": "chess@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": "15.00",
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@10930314",
+     "registered_at": "2025-12-07T23:57:47-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64035200",
+     "registered_at": "2025-11-30T16:27:58-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@63275701",
+     "registered_at": "2025-11-30T02:32:21-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@44315151",
+     "registered_at": "2025-12-08T05:41:11-05:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1226",
+   "title": "Spring Chess",
+   "category": "Career Fair",
+   "starts_at": "2025-11-12T22:30:00-05:00",
+   "duration_minutes": 90,
+   "status": "cancelled",
+   "venue": {
+    "name": "Blackburn Center Ballroom",
+    "building": "Blackburn Center",
+    "room": "Ballroom",
+    "capacity": 400
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-001",
+    "name": "Data Science Society",
+    "contact": {
+     "email": "data@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 5.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@68132479",
+     "registered_at": "2025-11-03T07:26:30-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23364870",
+     "registered_at": "2025-11-09T02:00:22-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@49468011",
+     "registered_at": "2025-10-30T22:22:17-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20259545",
+     "registered_at": "2025-11-01T03:38:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@35107184",
+     "registered_at": "2025-11-07T12:32:06-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@26577220",
+     "registered_at": "2025-10-30T17:49:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@98305732",
+     "registered_at": "2025-11-07T15:44:19-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@90510453",
+     "registered_at": "2025-11-04T07:08:30-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87751443",
+     "registered_at": "2025-11-09T17:26:06-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90350685",
+     "registered_at": "2025-11-08T18:59:10-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59828729",
+     "registered_at": "2025-11-01T17:39:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76557763",
+     "registered_at": "2025-11-12T20:23:32-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@98243597",
+     "registered_at": "2025-11-12T04:28:52-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95857347",
+     "registered_at": "2025-11-08T06:20:58-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56328949",
+     "registered_at": "2025-11-09T01:11:00-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@70011000",
+     "registered_at": "2025-11-09T19:10:24-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@71371570",
+     "registered_at": "2025-11-02T12:45:14-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@44555999",
+     "registered_at": "2025-11-07T11:22:52-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36238913",
+     "registered_at": "2025-11-09T23:21:42-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95963818",
+     "registered_at": "2025-11-05T14:03:10-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38561902",
+     "registered_at": "2025-11-02T01:55:16-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36910190",
+     "registered_at": "2025-11-06T16:10:36-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54688544",
+     "registered_at": "2025-11-01T15:01:53-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@58145380",
+     "registered_at": "2025-11-03T19:43:27-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@42670257",
+     "registered_at": "2025-11-09T02:45:01-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@28520064",
+     "registered_at": "2025-11-04T16:33:47-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@89185917",
+     "registered_at": "2025-10-30T21:31:19-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@32361342",
+     "registered_at": "2025-11-02T04:42:56-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58967924",
+     "registered_at": "2025-11-05T08:59:10-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64651867",
+     "registered_at": "2025-11-12T08:51:38-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@16713180",
+     "registered_at": "2025-10-31T15:56:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@91613670",
+     "registered_at": "2025-11-01T00:58:17-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@61571180",
+     "registered_at": "2025-11-02T18:58:52-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@31168753",
+     "registered_at": "2025-11-03T04:09:39-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@28192568",
+     "registered_at": "2025-11-06T03:19:08-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12003052",
+     "registered_at": "2025-11-04T13:57:07-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@55932502",
+     "registered_at": "2025-11-09T15:44:47-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99002223",
+     "registered_at": "2025-11-10T14:18:13-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51030796",
+     "registered_at": "2025-11-11T19:02:10-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27467482",
+     "registered_at": "2025-11-01T22:31:34-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@56323178",
+     "registered_at": "2025-11-06T18:44:24-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99169156",
+     "registered_at": "2025-11-07T16:30:06-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1227",
+   "title": "Advanced Robotics",
+   "category": "Performance",
+   "starts_at": "2025-09-16T00:00:00-04:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-001",
+    "name": "Data Science Society",
+    "contact": {
+     "email": "data@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@78084475",
+     "registered_at": "2025-09-06T19:55:06-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@58121300",
+     "registered_at": "2025-09-09T04:58:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96917803",
+     "registered_at": "2025-09-02T19:23:00-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19690865",
+     "registered_at": "2025-09-07T01:01:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@55747879",
+     "registered_at": "2025-09-14T15:11:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@68678169",
+     "registered_at": "2025-09-08T15:34:59-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62882441",
+     "registered_at": "2025-09-07T19:04:54-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96980139",
+     "registered_at": "2025-09-10T09:20:50-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@52957599",
+     "registered_at": "2025-09-10T15:20:33-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@79194356",
+     "registered_at": "2025-09-11T18:30:23-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@62350286",
+     "registered_at": "2025-09-04T09:24:58-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1228",
+   "title": "Fall Esports",
+   "category": "Performance",
+   "starts_at": "2025-11-07T02:30:00-05:00",
+   "duration_minutes": 180,
+   "status": "cancelled",
+   "venue": {
+    "name": "Blackburn Center Ballroom",
+    "building": "Blackburn Center",
+    "room": "Ballroom",
+    "capacity": 400
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-006",
+    "name": "Entrepreneurs Network",
+    "contact": {
+     "email": "entrepreneurs@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "outdoors"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@69561944",
+     "registered_at": "2025-10-24T08:42:52-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@53595019",
+     "registered_at": "2025-11-03T21:53:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47649752",
+     "registered_at": "2025-10-31T17:37:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50780486",
+     "registered_at": "2025-10-27T12:43:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@85772144",
+     "registered_at": "2025-11-04T12:39:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82223040",
+     "registered_at": "2025-10-31T17:31:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90490789",
+     "registered_at": "2025-10-28T17:13:56-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95980805",
+     "registered_at": "2025-11-02T19:09:18-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96189734",
+     "registered_at": "2025-10-28T12:09:58-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@26499272",
+     "registered_at": "2025-10-28T11:39:04-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@93146190",
+     "registered_at": "2025-10-31T21:52:26-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1229",
+   "title": "Intro to Poetry",
+   "category": "Competition",
+   "starts_at": "2025-10-17T19:30:00-04:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Blackburn Center Ballroom",
+    "building": "Blackburn Center",
+    "room": "Ballroom",
+    "capacity": 400
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-016",
+    "name": "Women in Computing",
+    "contact": {
+     "email": "women@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "AI"
+   ],
+   "ticket": {
+    "price": 5.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@91661501",
+     "registered_at": "2025-10-08T07:56:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@42079547",
+     "registered_at": "2025-10-10T05:50:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33928170",
+     "registered_at": "2025-10-10T12:27:17-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@26315797",
+     "registered_at": "2025-10-17T14:56:06-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14656410",
+     "registered_at": "2025-10-09T12:33:12-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@98093364",
+     "registered_at": "2025-10-05T14:12:14-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@82432391",
+     "registered_at": "2025-10-11T17:43:24-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@14636584",
+     "registered_at": "2025-10-08T13:36:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38259341",
+     "registered_at": "2025-10-17T13:13:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47050215",
+     "registered_at": "2025-10-04T14:29:40-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@19647095",
+     "registered_at": "2025-10-08T10:19:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51073576",
+     "registered_at": "2025-10-13T14:55:30-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@21820526",
+     "registered_at": "2025-10-05T22:10:15-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63073217",
+     "registered_at": "2025-10-08T14:27:30-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@10832522",
+     "registered_at": "2025-10-09T13:36:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11584089",
+     "registered_at": "2025-10-14T14:27:08-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@16523796",
+     "registered_at": "2025-10-05T14:49:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@32166465",
+     "registered_at": "2025-10-11T11:43:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74313750",
+     "registered_at": "2025-10-11T16:21:53-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@73119860",
+     "registered_at": "2025-10-08T15:10:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25554312",
+     "registered_at": "2025-10-06T08:55:05-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@45053611",
+     "registered_at": "2025-10-05T22:39:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11659615",
+     "registered_at": "2025-10-08T06:39:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62023518",
+     "registered_at": "2025-10-11T16:31:58-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22664931",
+     "registered_at": "2025-10-09T05:59:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20260061",
+     "registered_at": "2025-10-05T21:11:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83507317",
+     "registered_at": "2025-10-15T06:07:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@88323956",
+     "registered_at": "2025-10-04T18:02:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99169156",
+     "registered_at": "2025-10-07T02:11:15-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@19774218",
+     "registered_at": "2025-10-08T20:55:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12545761",
+     "registered_at": "2025-10-06T17:50:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84371175",
+     "registered_at": "2025-10-07T10:30:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99767223",
+     "registered_at": "2025-10-16T04:06:24-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@74914208",
+     "registered_at": "2025-10-14T01:36:04-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11517973",
+     "registered_at": "2025-10-09T11:31:03-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@21458001",
+     "registered_at": "2025-10-14T06:11:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@97124726",
+     "registered_at": "2025-10-12T10:28:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56703037",
+     "registered_at": "2025-10-12T20:20:41-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1230",
+   "title": "Spring Jazz",
+   "category": "Performance",
+   "starts_at": "2025-11-28T13:00:00-05:00",
+   "duration_minutes": 180,
+   "status": "cancelled",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-011",
+    "name": "African Students Association",
+    "contact": {
+     "email": "african@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "ticket": {
+    "price": 15.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@12005325",
+     "registered_at": "2025-11-26T07:17:19-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87173823",
+     "registered_at": "2025-11-23T03:44:04-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16578394",
+     "registered_at": "2025-11-15T20:36:36-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11732174",
+     "registered_at": "2025-11-15T07:48:56-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@50183724",
+     "registered_at": "2025-11-22T06:52:24-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51479645",
+     "registered_at": "2025-11-21T04:58:19-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@66494858",
+     "registered_at": "2025-11-19T17:28:34-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59598718",
+     "registered_at": "2025-11-17T07:41:24-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82161643",
+     "registered_at": "2025-11-17T14:02:21-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64795379",
+     "registered_at": "2025-11-24T11:00:15-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@94935856",
+     "registered_at": "2025-11-22T04:26:30-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@68912739",
+     "registered_at": "2025-11-26T02:08:33-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@69088559",
+     "registered_at": "2025-11-23T21:30:48-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@26577220",
+     "registered_at": "2025-11-16T15:49:27-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@41834923",
+     "registered_at": "2025-11-26T16:59:39-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50652131",
+     "registered_at": "2025-11-15T05:36:23-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19058028",
+     "registered_at": "2025-11-21T08:41:04-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1231",
+   "title": "Fall Data Viz",
+   "category": "Competition",
+   "starts_at": "2025-11-02T02:30:00-05:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": null,
+   "online_url": "https://meet.example.edu/3811992",
+   "organizer": {
+    "org_id": "ORG-002",
+    "name": "Black Engineers Collective",
+    "contact": {
+     "email": "black@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "networking"
+   ],
+   "ticket": {
+    "price": 5.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@55125313",
+     "registered_at": "2025-10-21T03:13:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76490055",
+     "registered_at": "2025-10-31T18:52:09-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@83585619",
+     "registered_at": "2025-10-23T06:51:15-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@14403600",
+     "registered_at": "2025-10-27T06:56:23-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@59598718",
+     "registered_at": "2025-10-29T00:52:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86174791",
+     "registered_at": "2025-10-30T07:13:18-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@12506180",
+     "registered_at": "2025-10-23T21:04:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46201729",
+     "registered_at": "2025-11-01T02:15:38-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@33947219",
+     "registered_at": "2025-10-27T03:13:00-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@52278658",
+     "registered_at": "2025-11-01T16:46:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@13238859",
+     "registered_at": "2025-10-31T22:16:08-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94806846",
+     "registered_at": "2025-10-19T19:35:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71975282",
+     "registered_at": "2025-10-20T19:49:32-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82223040",
+     "registered_at": "2025-10-25T21:04:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82727249",
+     "registered_at": "2025-10-28T09:23:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50612543",
+     "registered_at": "2025-10-23T05:38:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25770780",
+     "registered_at": "2025-10-22T20:04:05-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@10930314",
+     "registered_at": "2025-10-31T21:23:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20555696",
+     "registered_at": "2025-10-29T03:10:35-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@46445697",
+     "registered_at": "2025-10-23T22:05:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@78810553",
+     "registered_at": "2025-10-30T14:30:58-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@90490789",
+     "registered_at": "2025-10-26T00:55:19-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31431155",
+     "registered_at": "2025-10-21T10:57:51-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@57961909",
+     "registered_at": "2025-10-22T18:25:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34090463",
+     "registered_at": "2025-11-01T08:32:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43671275",
+     "registered_at": "2025-10-23T12:58:35-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@73119860",
+     "registered_at": "2025-10-31T16:33:15-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87652418",
+     "registered_at": "2025-10-31T05:35:37-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@82529356",
+     "registered_at": "2025-10-25T21:13:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@80021950",
+     "registered_at": "2025-10-30T14:26:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27989645",
+     "registered_at": "2025-10-24T19:17:02-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@42347389",
+     "registered_at": "2025-10-19T05:04:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43038937",
+     "registered_at": "2025-10-30T06:02:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14778391",
+     "registered_at": "2025-10-19T08:02:26-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@61845998",
+     "registered_at": "2025-10-23T13:47:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36752428",
+     "registered_at": "2025-10-23T15:23:23-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25587873",
+     "registered_at": "2025-10-21T17:45:19-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1232",
+   "title": "Night of Python",
+   "category": "Competition",
+   "starts_at": "2025-12-08T20:00:00-05:00",
+   "duration_minutes": 180,
+   "status": "cancelled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-015",
+    "name": "Debate Union",
+    "contact": {
+     "email": "debate@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "career",
+    "games",
+    "health"
+   ],
+   "ticket": {
+    "price": 10.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@62348479",
+     "registered_at": "2025-12-07T23:47:09-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@60855885",
+     "registered_at": "2025-11-28T22:46:49-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@42356490",
+     "registered_at": "2025-12-02T05:34:47-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99722186",
+     "registered_at": "2025-12-04T06:27:57-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22168515",
+     "registered_at": "2025-12-02T22:49:37-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27420015",
+     "registered_at": "2025-12-05T15:49:15-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@68712486",
+     "registered_at": "2025-12-05T16:16:49-05:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1233",
+   "title": "Intro to Esports",
+   "category": "Social",
+   "starts_at": "2025-09-07T05:00:00-04:00",
+   "duration_minutes": 90,
+   "status": "cancelled",
+   "venue": null,
+   "online_url": "https://meet.example.edu/1607296",
+   "organizer": {
+    "org_id": "ORG-014",
+    "name": "Pre-Med Society",
+    "contact": {
+     "email": "pre-med@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": "0.00",
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@46730406",
+     "registered_at": "2025-08-28T19:55:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90757834",
+     "registered_at": "2025-08-26T01:24:51-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56029738",
+     "registered_at": "2025-08-28T04:39:15-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@63037696",
+     "registered_at": "2025-09-03T02:33:48-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@16907611",
+     "registered_at": "2025-09-02T09:31:56-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@67034461",
+     "registered_at": "2025-09-04T09:32:25-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@60220592",
+     "registered_at": "2025-09-03T21:27:59-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@66773787",
+     "registered_at": "2025-08-29T22:42:56-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@81725844",
+     "registered_at": "2025-08-27T00:20:28-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@93104281",
+     "registered_at": "2025-08-29T09:12:43-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@74575894",
+     "registered_at": "2025-08-24T20:38:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33599179",
+     "registered_at": "2025-08-25T00:07:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74812202",
+     "registered_at": "2025-09-05T11:20:18-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@37126402",
+     "registered_at": "2025-09-02T19:27:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@65286907",
+     "registered_at": "2025-08-25T06:54:17-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1234",
+   "title": "Fall Poetry",
+   "category": "Talk",
+   "starts_at": "2025-11-07T05:30:00-05:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-004",
+    "name": "Robotics Team",
+    "contact": {
+     "email": "robotics@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "finance",
+    "outdoors",
+    "python"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@78802729",
+     "registered_at": "2025-11-04T23:32:27-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@10904697",
+     "registered_at": "2025-10-28T18:11:52-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@91254966",
+     "registered_at": "2025-10-29T01:38:37-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@75589808",
+     "registered_at": "2025-10-29T01:53:42-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@73803613",
+     "registered_at": "2025-11-06T12:57:36-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@28023347",
+     "registered_at": "2025-11-01T20:25:05-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@82020714",
+     "registered_at": "2025-10-27T05:42:53-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82788622",
+     "registered_at": "2025-10-27T23:34:11-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@37774812",
+     "registered_at": "2025-10-30T19:51:17-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@48983940",
+     "registered_at": "2025-11-02T07:32:37-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87097254",
+     "registered_at": "2025-11-03T06:59:28-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1235",
+   "title": "Spring Chess",
+   "category": "Workshop",
+   "starts_at": 1759919400000,
+   "duration_minutes": 90,
+   "status": "scheduled",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-002",
+    "name": "Black Engineers Collective",
+    "contact": {
+     "email": "black@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "games",
+    "music"
+   ],
+   "ticket": {
+    "price": 15.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@25166910",
+     "registered_at": "2025-09-26T03:25:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92398925",
+     "registered_at": "2025-09-30T21:49:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87097254",
+     "registered_at": "2025-10-08T02:10:33-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23634744",
+     "registered_at": "2025-09-24T21:04:05-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@39109563",
+     "registered_at": "2025-09-27T21:32:53-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@53749530",
+     "registered_at": "2025-10-02T05:17:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22018586",
+     "registered_at": "2025-09-29T05:38:25-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74575894",
+     "registered_at": "2025-10-07T04:26:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@13157804",
+     "registered_at": "2025-10-07T10:02:21-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63248966",
+     "registered_at": "2025-10-01T20:34:33-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@61334592",
+     "registered_at": "2025-10-07T06:13:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@39400811",
+     "registered_at": "2025-10-01T04:52:49-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94313736",
+     "registered_at": "2025-09-29T16:52:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@80015814",
+     "registered_at": "2025-09-28T00:15:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@35480587",
+     "registered_at": "2025-09-26T22:39:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56057348",
+     "registered_at": "2025-09-27T08:39:54-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12902056",
+     "registered_at": "2025-10-02T02:02:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43886202",
+     "registered_at": "2025-09-24T11:59:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23950916",
+     "registered_at": "2025-10-01T14:37:46-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@48583412",
+     "registered_at": "2025-09-27T17:47:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@15368517",
+     "registered_at": "2025-09-30T11:11:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@40079485",
+     "registered_at": "2025-09-25T15:14:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84448038",
+     "registered_at": "2025-10-04T21:15:43-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@73460239",
+     "registered_at": "2025-09-25T09:22:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33151049",
+     "registered_at": "2025-10-07T01:12:08-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@37688904",
+     "registered_at": "2025-09-27T15:11:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33039554",
+     "registered_at": "2025-10-01T10:06:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@79925079",
+     "registered_at": "2025-10-05T08:33:11-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@69814577",
+     "registered_at": "2025-09-26T18:02:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62913847",
+     "registered_at": "2025-09-24T13:57:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95936629",
+     "registered_at": "2025-09-28T10:08:05-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@61737843",
+     "registered_at": "2025-09-30T09:27:55-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@95476470",
+     "registered_at": "2025-09-29T17:29:51-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@28344978",
+     "registered_at": "2025-10-03T03:51:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@91400063",
+     "registered_at": "2025-09-30T06:09:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66025817",
+     "registered_at": "2025-10-04T05:16:17-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@91353146",
+     "registered_at": "2025-09-28T03:58:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@94865341",
+     "registered_at": "2025-10-07T04:08:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23439801",
+     "registered_at": "2025-09-24T16:33:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27035520",
+     "registered_at": "2025-10-01T09:46:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84371175",
+     "registered_at": "2025-10-07T17:14:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66695929",
+     "registered_at": "2025-09-29T06:37:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19754562",
+     "registered_at": "2025-10-02T03:29:04-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@71845510",
+     "registered_at": "2025-09-28T17:06:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82403861",
+     "registered_at": "2025-10-07T17:46:41-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16231824",
+     "registered_at": "2025-09-27T11:39:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12142380",
+     "registered_at": "2025-09-28T22:13:50-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@14973592",
+     "registered_at": "2025-09-28T02:15:04-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36306130",
+     "registered_at": "2025-10-06T03:14:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19058028",
+     "registered_at": "2025-10-02T19:08:32-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@91303443",
+     "registered_at": "2025-10-02T05:20:23-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@44734527",
+     "registered_at": "2025-10-02T12:52:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@97048522",
+     "registered_at": "2025-10-05T08:28:50-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@89510838",
+     "registered_at": "2025-09-29T06:57:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25651788",
+     "registered_at": "2025-09-24T08:06:57-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47880357",
+     "registered_at": "2025-09-25T07:27:03-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1236",
+   "title": "Annual Chess",
+   "category": "Competition",
+   "starts_at": "2025-09-01T05:00:00-04:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-013",
+    "name": "Esports League",
+    "contact": {
+     "email": "esports@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "health"
+   ],
+   "ticket": {
+    "price": 3.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@25873856",
+     "registered_at": "2025-08-18T20:13:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50391548",
+     "registered_at": "2025-08-25T06:53:41-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25173450",
+     "registered_at": "2025-08-23T06:35:56-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56029738",
+     "registered_at": "2025-08-20T05:53:05-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@93048900",
+     "registered_at": "2025-08-19T04:14:03-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@19556684",
+     "registered_at": "2025-08-19T09:51:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66483175",
+     "registered_at": "2025-08-29T20:10:36-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@42547201",
+     "registered_at": "2025-08-24T06:55:09-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20442223",
+     "registered_at": "2025-09-01T01:46:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@88714253",
+     "registered_at": "2025-08-26T09:59:26-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@45699357",
+     "registered_at": "2025-08-23T19:49:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@13015283",
+     "registered_at": "2025-08-23T08:06:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87256378",
+     "registered_at": "2025-08-20T10:45:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20094739",
+     "registered_at": "2025-08-29T05:44:40-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43591344",
+     "registered_at": "2025-08-19T08:34:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@24392358",
+     "registered_at": "2025-08-18T13:14:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82062414",
+     "registered_at": "2025-08-27T09:26:13-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@84275948",
+     "registered_at": "2025-08-29T05:54:00-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@26018738",
+     "registered_at": "2025-08-31T04:47:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58840001",
+     "registered_at": "2025-08-18T15:53:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34389398",
+     "registered_at": "2025-08-31T22:53:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@73349688",
+     "registered_at": "2025-08-25T09:25:53-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@43400303",
+     "registered_at": "2025-08-19T23:03:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38435075",
+     "registered_at": "2025-08-25T23:36:33-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33784347",
+     "registered_at": "2025-08-27T16:39:55-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@44734527",
+     "registered_at": "2025-08-18T07:47:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@26359574",
+     "registered_at": "2025-08-22T04:52:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@53374018",
+     "registered_at": "2025-08-25T22:03:45-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@13572295",
+     "registered_at": "2025-08-27T07:40:43-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95476470",
+     "registered_at": "2025-08-24T04:43:56-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@37795953",
+     "registered_at": "2025-08-25T10:51:07-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@92923686",
+     "registered_at": "2025-08-28T23:04:25-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@68712486",
+     "registered_at": "2025-08-24T23:53:32-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1237",
+   "title": "Intro to Python",
+   "category": "Workshop",
+   "starts_at": "2025-12-01T10:30:00-05:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-012",
+    "name": "Caribbean Students Association",
+    "contact": {
+     "email": "caribbean@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "health"
+   ],
+   "ticket": {
+    "price": 15.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@87785847",
+     "registered_at": "2025-11-20T02:49:37-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@44339736",
+     "registered_at": "2025-11-29T23:53:30-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@22205979",
+     "registered_at": "2025-11-22T14:29:13-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47566530",
+     "registered_at": "2025-11-28T21:24:44-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@62711752",
+     "registered_at": "2025-11-21T14:26:16-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@98309619",
+     "registered_at": "2025-11-17T14:02:03-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59187376",
+     "registered_at": "2025-11-30T20:47:19-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19159424",
+     "registered_at": "2025-11-30T14:18:24-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@19798098",
+     "registered_at": "2025-11-26T14:08:08-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@48010855",
+     "registered_at": "2025-11-25T12:00:28-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34389398",
+     "registered_at": "2025-11-18T22:01:13-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@30850994",
+     "registered_at": "2025-11-26T06:10:45-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@88047928",
+     "registered_at": "2025-11-24T18:32:14-05:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1238",
+   "title": "Intro to Python",
+   "category": "Talk",
+   "starts_at": "2025-08-27T12:30:00-04:00",
+   "duration_minutes": 90,
+   "status": "scheduled",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-004",
+    "name": "Robotics Team",
+    "contact": {
+     "email": "robotics@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "ticket": {
+    "price": 3.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@47050215",
+     "registered_at": "2025-08-23T13:49:28-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@45634628",
+     "registered_at": "2025-08-24T08:47:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86392325",
+     "registered_at": "2025-08-21T04:18:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90946217",
+     "registered_at": "2025-08-16T19:09:58-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@71417513",
+     "registered_at": "2025-08-23T23:45:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@69267285",
+     "registered_at": "2025-08-26T06:01:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12195880",
+     "registered_at": "2025-08-14T01:20:30-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@67799698",
+     "registered_at": "2025-08-26T10:56:09-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@24925036",
+     "registered_at": "2025-08-26T11:20:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95287641",
+     "registered_at": "2025-08-26T16:30:30-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96540437",
+     "registered_at": "2025-08-16T17:27:56-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@29449915",
+     "registered_at": "2025-08-24T06:21:43-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@15639727",
+     "registered_at": "2025-08-13T13:37:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@53121776",
+     "registered_at": "2025-08-27T08:49:41-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47046481",
+     "registered_at": "2025-08-17T21:59:39-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@56303810",
+     "registered_at": "2025-08-17T13:46:31-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@22323871",
+     "registered_at": "2025-08-23T04:44:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86209674",
+     "registered_at": "2025-08-19T16:36:50-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@88050934",
+     "registered_at": "2025-08-17T17:05:54-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63676498",
+     "registered_at": "2025-08-16T21:45:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@93888276",
+     "registered_at": "2025-08-23T23:35:57-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@18782244",
+     "registered_at": "2025-08-20T17:38:12-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@29042204",
+     "registered_at": "2025-08-16T04:57:55-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@88632627",
+     "registered_at": "2025-08-19T20:14:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@30543984",
+     "registered_at": "2025-08-17T03:36:47-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47135712",
+     "registered_at": "2025-08-20T12:17:37-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@68234504",
+     "registered_at": "2025-08-21T22:16:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@68132046",
+     "registered_at": "2025-08-13T20:53:51-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@32179369",
+     "registered_at": "2025-08-16T22:20:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90562684",
+     "registered_at": "2025-08-21T18:59:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@21029970",
+     "registered_at": "2025-08-15T09:07:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59738935",
+     "registered_at": "2025-08-16T21:03:48-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@13600153",
+     "registered_at": "2025-08-22T20:08:23-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1239",
+   "title": "Annual Poetry",
+   "category": "Performance",
+   "starts_at": "2025-09-15T04:30:00-04:00",
+   "duration_minutes": 180,
+   "status": "scheduled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-012",
+    "name": "Caribbean Students Association",
+    "contact": {
+     "email": "caribbean@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "free food",
+    "games",
+    "python"
+   ],
+   "ticket": {
+    "price": 15.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@66499372",
+     "registered_at": "2025-09-05T12:13:50-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82845532",
+     "registered_at": "2025-09-06T19:25:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23043256",
+     "registered_at": "2025-09-13T13:42:43-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@15910053",
+     "registered_at": "2025-09-05T05:27:09-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@70386783",
+     "registered_at": "2025-09-08T14:18:10-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@50391548",
+     "registered_at": "2025-09-13T20:04:59-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1240",
+   "title": "Fall Data Viz",
+   "category": "Hackathon",
+   "starts_at": "2025-09-17T09:30:00-04:00",
+   "duration_minutes": 180,
+   "status": "scheduled",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-006",
+    "name": "Entrepreneurs Network",
+    "contact": {
+     "email": "entrepreneurs@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 3.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@45755769",
+     "registered_at": "2025-09-10T21:23:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@99255913",
+     "registered_at": "2025-09-05T09:53:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71466422",
+     "registered_at": "2025-09-12T12:49:16-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@29567241",
+     "registered_at": "2025-09-10T09:27:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@97554096",
+     "registered_at": "2025-09-15T02:44:07-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@97505569",
+     "registered_at": "2025-09-10T01:39:45-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@11073703",
+     "registered_at": "2025-09-03T11:58:25-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23341261",
+     "registered_at": "2025-09-08T06:58:58-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@41251206",
+     "registered_at": "2025-09-09T23:48:36-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@67834848",
+     "registered_at": "2025-09-12T03:01:08-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@91344325",
+     "registered_at": "2025-09-10T21:10:42-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@16578394",
+     "registered_at": "2025-09-13T15:23:13-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@28344978",
+     "registered_at": "2025-09-07T20:10:55-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@48542193",
+     "registered_at": "2025-09-13T11:49:02-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@54364267",
+     "registered_at": "2025-09-07T14:29:41-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@82938035",
+     "registered_at": "2025-09-06T04:42:00-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@64298893",
+     "registered_at": "2025-09-05T14:56:22-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@59610422",
+     "registered_at": "2025-09-07T09:38:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66230777",
+     "registered_at": "2025-09-06T00:15:58-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76171638",
+     "registered_at": "2025-09-13T06:51:37-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@29435995",
+     "registered_at": "2025-09-10T17:00:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11427000",
+     "registered_at": "2025-09-04T03:21:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63953187",
+     "registered_at": "2025-09-08T17:50:54-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1241",
+   "title": "Fall Film",
+   "category": "Hackathon",
+   "starts_at": "2025-10-15T06:00:00-04:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-008",
+    "name": "Hiking & Outdoors",
+    "contact": {
+     "email": "hiking@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "AI",
+    "culture",
+    "python"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@92147671",
+     "registered_at": "2025-10-10T05:07:34-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36165929",
+     "registered_at": "2025-10-12T21:31:07-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@11747831",
+     "registered_at": "2025-10-09T15:14:26-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20139021",
+     "registered_at": "2025-10-03T19:41:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59377070",
+     "registered_at": "2025-10-07T02:46:35-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62882441",
+     "registered_at": "2025-10-12T19:21:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51471519",
+     "registered_at": "2025-10-01T07:46:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84149671",
+     "registered_at": "2025-10-06T15:45:07-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1242",
+   "title": "Intro to Data Viz",
+   "category": "Hackathon",
+   "starts_at": "2025-11-20T04:30:00-05:00",
+   "duration_minutes": 120,
+   "status": "cancelled",
+   "venue": {
+    "name": "Cramton Auditorium",
+    "building": "Cramton",
+    "room": "Main",
+    "capacity": 1500
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-005",
+    "name": "Gospel Choir",
+    "contact": {
+     "email": "gospel@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 15.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@31990841",
+     "registered_at": "2025-11-08T20:25:38-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46975624",
+     "registered_at": "2025-11-12T21:06:45-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72713648",
+     "registered_at": "2025-11-20T00:35:38-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@53773936",
+     "registered_at": "2025-11-15T22:25:21-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64747186",
+     "registered_at": "2025-11-15T23:53:25-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@58214939",
+     "registered_at": "2025-11-13T08:20:33-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@70668009",
+     "registered_at": "2025-11-09T03:27:38-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@28547551",
+     "registered_at": "2025-11-16T03:00:54-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@75022531",
+     "registered_at": "2025-11-07T02:48:38-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87582300",
+     "registered_at": "2025-11-13T02:19:51-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@30850960",
+     "registered_at": "2025-11-15T15:48:52-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51412310",
+     "registered_at": "2025-11-18T01:17:26-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84063958",
+     "registered_at": "2025-11-08T03:16:31-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@24424758",
+     "registered_at": "2025-11-19T09:59:43-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@90535296",
+     "registered_at": "2025-11-15T18:31:33-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@42964761",
+     "registered_at": "2025-11-16T12:04:23-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@56533471",
+     "registered_at": "2025-11-07T03:38:27-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1243",
+   "title": "Intro to Jazz",
+   "category": "Talk",
+   "starts_at": "2025-10-15T12:30:00-04:00",
+   "duration_minutes": 180,
+   "status": "completed",
+   "venue": {
+    "name": "Engineering Lab 3",
+    "building": "LKD Engineering",
+    "room": "L3",
+    "capacity": 40
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-002",
+    "name": "Black Engineers Collective",
+    "contact": {
+     "email": "black@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [],
+   "ticket": {
+    "price": 3.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@37795953",
+     "registered_at": "2025-10-12T14:26:01-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@13065784",
+     "registered_at": "2025-10-14T12:44:36-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@95352966",
+     "registered_at": "2025-10-08T02:05:53-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@35892261",
+     "registered_at": "2025-10-04T04:43:49-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17220604",
+     "registered_at": "2025-10-13T01:11:38-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92679606",
+     "registered_at": "2025-10-11T15:32:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92526809",
+     "registered_at": "2025-10-06T05:45:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38016416",
+     "registered_at": "2025-10-10T08:37:55-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@51876158",
+     "registered_at": "2025-10-06T16:47:49-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@65390801",
+     "registered_at": "2025-10-07T07:41:23-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1244",
+   "title": "Night of Poetry",
+   "category": "Social",
+   "starts_at": "2025-12-01T12:30:00-05:00",
+   "duration_minutes": 90,
+   "status": "cancelled",
+   "venue": null,
+   "online_url": "https://meet.example.edu/9967277",
+   "organizer": {
+    "org_id": "ORG-008",
+    "name": "Hiking & Outdoors",
+    "contact": {
+     "email": "hiking@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "beginner-friendly",
+    "networking"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@41550241",
+     "registered_at": "2025-11-18T20:09:14-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@35682155",
+     "registered_at": "2025-11-27T20:43:32-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58214939",
+     "registered_at": "2025-11-27T06:34:27-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86933712",
+     "registered_at": "2025-11-22T15:39:02-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@77083441",
+     "registered_at": "2025-11-25T19:38:02-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96376954",
+     "registered_at": "2025-11-29T08:54:03-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66286662",
+     "registered_at": "2025-11-29T08:20:15-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@66026879",
+     "registered_at": "2025-11-18T23:07:57-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@80963436",
+     "registered_at": "2025-11-26T16:54:33-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@58840001",
+     "registered_at": "2025-11-19T14:55:36-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1245",
+   "title": "Intro to Poetry",
+   "category": "Social",
+   "starts_at": "2025-11-13T04:00:00-05:00",
+   "duration_minutes": 60,
+   "status": "scheduled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-016",
+    "name": "Women in Computing",
+    "contact": {
+     "email": "women@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "career",
+    "finance",
+    "networking"
+   ],
+   "ticket": {
+    "price": 3.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@48860786",
+     "registered_at": "2025-11-12T22:26:57-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58093704",
+     "registered_at": "2025-10-30T13:25:47-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17508618",
+     "registered_at": "2025-11-10T05:24:30-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@12751212",
+     "registered_at": "2025-11-12T12:38:52-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@98463430",
+     "registered_at": "2025-11-11T01:17:49-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83082398",
+     "registered_at": "2025-11-01T04:18:00-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@21719851",
+     "registered_at": "2025-11-01T07:42:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71881947",
+     "registered_at": "2025-11-09T18:45:27-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31970450",
+     "registered_at": "2025-11-06T19:16:57-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16907611",
+     "registered_at": "2025-11-10T06:15:29-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87097254",
+     "registered_at": "2025-10-30T19:32:18-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@89446151",
+     "registered_at": "2025-11-11T16:06:29-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@55125313",
+     "registered_at": "2025-11-07T15:58:45-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@22180975",
+     "registered_at": "2025-11-06T05:36:43-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@85668269",
+     "registered_at": "2025-10-31T11:31:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@80039095",
+     "registered_at": "2025-11-10T00:54:49-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@35999919",
+     "registered_at": "2025-11-08T05:31:46-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@63404797",
+     "registered_at": "2025-11-06T21:05:27-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@75773988",
+     "registered_at": "2025-11-02T00:49:12-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@10351859",
+     "registered_at": "2025-11-05T05:38:30-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@13600153",
+     "registered_at": "2025-11-08T19:19:34-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@44401574",
+     "registered_at": "2025-11-12T03:33:52-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@27176553",
+     "registered_at": "2025-11-05T04:45:29-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@53010914",
+     "registered_at": "2025-11-11T10:25:37-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@25667488",
+     "registered_at": "2025-11-07T17:29:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@32511826",
+     "registered_at": "2025-11-09T18:10:32-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@69957690",
+     "registered_at": "2025-11-12T15:18:06-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@77083441",
+     "registered_at": "2025-10-31T02:07:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16523796",
+     "registered_at": "2025-10-31T15:14:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@68477684",
+     "registered_at": "2025-11-09T20:55:04-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@85177852",
+     "registered_at": "2025-10-30T11:07:22-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@17293826",
+     "registered_at": "2025-11-08T16:54:24-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@61431835",
+     "registered_at": "2025-11-10T18:24:10-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@52252846",
+     "registered_at": "2025-10-31T01:27:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@75679030",
+     "registered_at": "2025-11-05T12:38:02-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@69085137",
+     "registered_at": "2025-11-08T18:01:49-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@37979447",
+     "registered_at": "2025-11-03T00:48:40-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@70768126",
+     "registered_at": "2025-11-01T21:23:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@99462658",
+     "registered_at": "2025-11-01T17:49:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@61489960",
+     "registered_at": "2025-11-08T01:14:23-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@57487039",
+     "registered_at": "2025-11-10T23:19:52-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@24924493",
+     "registered_at": "2025-10-31T04:47:42-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@87185404",
+     "registered_at": "2025-11-12T19:50:56-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@86356857",
+     "registered_at": "2025-11-09T16:46:08-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83310641",
+     "registered_at": "2025-11-11T17:50:56-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74812202",
+     "registered_at": "2025-11-12T21:24:34-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@66453477",
+     "registered_at": "2025-11-05T22:50:08-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@53051105",
+     "registered_at": "2025-11-08T16:55:54-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@97461728",
+     "registered_at": "2025-10-31T04:03:31-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@31922752",
+     "registered_at": "2025-11-06T22:20:38-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56503142",
+     "registered_at": "2025-11-07T20:34:08-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@33256663",
+     "registered_at": "2025-11-08T10:22:36-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@18130817",
+     "registered_at": "2025-11-10T04:01:58-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20330121",
+     "registered_at": "2025-11-12T20:41:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59598718",
+     "registered_at": "2025-11-11T15:23:06-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87349835",
+     "registered_at": "2025-11-10T11:43:02-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92679606",
+     "registered_at": "2025-11-02T12:32:13-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@40130885",
+     "registered_at": "2025-11-07T05:43:37-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@62801652",
+     "registered_at": "2025-10-30T22:20:41-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38404085",
+     "registered_at": "2025-11-09T17:24:29-05:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1246",
+   "title": "Intro to Chess",
+   "category": "Meeting",
+   "starts_at": "2025-10-10T02:00:00-04:00",
+   "duration_minutes": 90,
+   "status": "completed",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-005",
+    "name": "Gospel Choir",
+    "contact": {
+     "email": "gospel@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "culture"
+   ],
+   "ticket": {
+    "price": 10.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@25599429",
+     "registered_at": "2025-10-05T09:17:51-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@50706985",
+     "registered_at": "2025-09-29T20:45:14-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@77330370",
+     "registered_at": "2025-09-30T03:56:12-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27306342",
+     "registered_at": "2025-10-02T10:44:43-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87256378",
+     "registered_at": "2025-10-07T02:01:24-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76305262",
+     "registered_at": "2025-09-29T14:10:08-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@53598453",
+     "registered_at": "2025-09-29T01:56:31-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@27284600",
+     "registered_at": "2025-10-09T01:11:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64955916",
+     "registered_at": "2025-10-04T08:10:42-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@43347194",
+     "registered_at": "2025-09-27T04:21:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@89622448",
+     "registered_at": "2025-10-08T14:44:28-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@75954078",
+     "registered_at": "2025-10-07T21:52:01-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@44097709",
+     "registered_at": "2025-10-05T05:02:25-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92562215",
+     "registered_at": "2025-09-29T04:37:27-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@32777718",
+     "registered_at": "2025-10-04T06:42:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16477630",
+     "registered_at": "2025-09-30T11:00:29-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36421243",
+     "registered_at": "2025-09-29T21:36:20-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@18720120",
+     "registered_at": "2025-10-04T21:03:48-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12913913",
+     "registered_at": "2025-10-02T00:58:21-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@35013735",
+     "registered_at": "2025-10-06T05:38:25-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@18538898",
+     "registered_at": "2025-10-02T05:18:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84845858",
+     "registered_at": "2025-09-29T22:43:06-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@68843679",
+     "registered_at": "2025-09-30T21:43:47-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@92873448",
+     "registered_at": "2025-09-28T21:11:59-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@65241315",
+     "registered_at": "2025-09-26T21:59:45-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@39902605",
+     "registered_at": "2025-09-28T19:55:03-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56003190",
+     "registered_at": "2025-09-26T12:28:13-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@46634634",
+     "registered_at": "2025-09-26T18:34:39-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@97913592",
+     "registered_at": "2025-09-29T16:33:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@36889970",
+     "registered_at": "2025-09-30T00:18:09-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@68678169",
+     "registered_at": "2025-10-01T18:52:44-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@97505569",
+     "registered_at": "2025-09-29T10:14:58-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@77669935",
+     "registered_at": "2025-10-04T08:29:03-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1247",
+   "title": "Spring Esports",
+   "category": "Talk",
+   "starts_at": "2025-11-30T00:00:00-05:00",
+   "duration_minutes": 180,
+   "status": "scheduled",
+   "venue": {
+    "name": "Blackburn Center Ballroom",
+    "building": "Blackburn Center",
+    "room": "Ballroom",
+    "capacity": 400
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-002",
+    "name": "Black Engineers Collective",
+    "contact": {
+     "email": "black@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "free food"
+   ],
+   "ticket": {
+    "price": 15.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@81442574",
+     "registered_at": "2025-11-21T12:48:20-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@79159914",
+     "registered_at": "2025-11-26T01:52:32-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@54980375",
+     "registered_at": "2025-11-24T11:39:49-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87516633",
+     "registered_at": "2025-11-20T20:44:50-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31278261",
+     "registered_at": "2025-11-25T10:35:56-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@98251030",
+     "registered_at": "2025-11-20T12:18:15-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@32605451",
+     "registered_at": "2025-11-21T02:29:21-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@64861967",
+     "registered_at": "2025-11-26T05:44:13-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@58121300",
+     "registered_at": "2025-11-28T04:30:22-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@68218336",
+     "registered_at": "2025-11-22T23:41:41-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@89875676",
+     "registered_at": "2025-11-23T18:51:33-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@74429745",
+     "registered_at": "2025-11-18T14:50:11-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@53559642",
+     "registered_at": "2025-11-21T22:06:32-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@31827624",
+     "registered_at": "2025-11-28T16:32:58-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82940049",
+     "registered_at": "2025-11-19T22:51:53-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@50822407",
+     "registered_at": "2025-11-16T07:56:49-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@83728048",
+     "registered_at": "2025-11-23T18:10:44-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@81529729",
+     "registered_at": "2025-11-21T17:51:31-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@69814577",
+     "registered_at": "2025-11-25T10:48:32-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19005653",
+     "registered_at": "2025-11-16T11:14:04-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@84790760",
+     "registered_at": "2025-11-17T03:37:32-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95055020",
+     "registered_at": "2025-11-18T19:41:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@70480010",
+     "registered_at": "2025-11-24T00:03:50-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@39109757",
+     "registered_at": "2025-11-18T03:19:14-05:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1248",
+   "title": "Annual Film",
+   "category": "Career Fair",
+   "starts_at": "2025-09-27T07:00:00-04:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": {
+    "name": "Douglass Hall 116",
+    "building": "Douglass Hall",
+    "room": "116",
+    "capacity": 90
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-012",
+    "name": "Caribbean Students Association",
+    "contact": {
+     "email": "caribbean@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "culture"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@25364638",
+     "registered_at": "2025-09-26T05:52:39-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@28164022",
+     "registered_at": "2025-09-20T05:02:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@20260061",
+     "registered_at": "2025-09-14T03:43:11-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34150656",
+     "registered_at": "2025-09-17T23:34:20-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@40114352",
+     "registered_at": "2025-09-22T21:56:16-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@94841496",
+     "registered_at": "2025-09-17T18:58:00-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@65390801",
+     "registered_at": "2025-09-14T15:59:17-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@96540437",
+     "registered_at": "2025-09-21T20:38:07-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@66126263",
+     "registered_at": "2025-09-17T19:27:02-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@79658769",
+     "registered_at": "2025-09-21T09:52:46-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46207216",
+     "registered_at": "2025-09-19T07:53:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71371570",
+     "registered_at": "2025-09-14T09:17:19-04:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@22579161",
+     "registered_at": "2025-09-27T01:12:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72872971",
+     "registered_at": "2025-09-26T00:52:19-04:00",
+     "checked_in": true
+    }
+   ]
+  },
+  {
+   "id": "EV-1249",
+   "title": "Advanced Career Prep",
+   "category": "Career Fair",
+   "starts_at": "2025-09-18T06:30:00-04:00",
+   "duration_minutes": 120,
+   "status": "scheduled",
+   "venue": {
+    "name": "Founders Library Room 2",
+    "building": "Founders Library",
+    "room": "2",
+    "capacity": 60
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-002",
+    "name": "Black Engineers Collective",
+    "contact": {
+     "email": "black@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "beginner-friendly",
+    "career",
+    "health"
+   ],
+   "ticket": {
+    "price": 0.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@81529825",
+     "registered_at": "2025-09-17T23:46:13-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@88047928",
+     "registered_at": "2025-09-07T07:06:37-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19350285",
+     "registered_at": "2025-09-09T15:43:41-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@70840463",
+     "registered_at": "2025-09-16T11:53:43-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@82403861",
+     "registered_at": "2025-09-05T22:48:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@59493749",
+     "registered_at": "2025-09-11T02:10:41-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@37943396",
+     "registered_at": "2025-09-15T11:31:52-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@12278075",
+     "registered_at": "2025-09-14T14:18:10-04:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23068192",
+     "registered_at": "2025-09-13T13:01:59-04:00",
+     "checked_in": false
+    }
+   ]
+  },
+  {
+   "id": "EV-1250",
+   "title": "Night of Startups",
+   "category": "Career Fair",
+   "starts_at": "2025-11-21T04:00:00-05:00",
+   "duration_minutes": 60,
+   "status": "cancelled",
+   "venue": {
+    "name": "Blackburn Center Ballroom",
+    "building": "Blackburn Center",
+    "room": "Ballroom",
+    "capacity": 400
+   },
+   "online_url": null,
+   "organizer": {
+    "org_id": "ORG-009",
+    "name": "Math Circle",
+    "contact": {
+     "email": "math@clubs.example.edu",
+     "phone": null
+    }
+   },
+   "tags": [
+    "beginner-friendly",
+    "games",
+    "outdoors"
+   ],
+   "ticket": {
+    "price": 10.0,
+    "currency": "USD"
+   },
+   "registrations": [
+    {
+     "student_id": "@93516867",
+     "registered_at": "2025-11-13T04:12:07-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@29435995",
+     "registered_at": "2025-11-09T20:30:24-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@23252882",
+     "registered_at": "2025-11-16T02:30:08-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22215293",
+     "registered_at": "2025-11-20T14:36:48-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@41834923",
+     "registered_at": "2025-11-11T04:26:35-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@18130817",
+     "registered_at": "2025-11-20T18:08:31-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@19472867",
+     "registered_at": "2025-11-18T03:29:19-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@59493749",
+     "registered_at": "2025-11-10T16:29:30-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@87185404",
+     "registered_at": "2025-11-19T02:39:08-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@75235606",
+     "registered_at": "2025-11-19T15:39:16-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@71838862",
+     "registered_at": "2025-11-15T15:29:40-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76316584",
+     "registered_at": "2025-11-11T00:39:16-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@56909987",
+     "registered_at": "2025-11-18T16:59:14-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@48300020",
+     "registered_at": "2025-11-14T22:51:49-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@34607135",
+     "registered_at": "2025-11-15T09:05:19-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@88185801",
+     "registered_at": "2025-11-13T05:44:41-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@44315151",
+     "registered_at": "2025-11-15T20:07:35-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@76954215",
+     "registered_at": "2025-11-17T16:51:47-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@43886202",
+     "registered_at": "2025-11-11T15:37:08-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@84316900",
+     "registered_at": "2025-11-14T11:07:35-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@40462987",
+     "registered_at": "2025-11-09T05:05:12-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@46467613",
+     "registered_at": "2025-11-12T03:08:44-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@31827624",
+     "registered_at": "2025-11-11T05:16:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@16661734",
+     "registered_at": "2025-11-07T08:23:36-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@70665175",
+     "registered_at": "2025-11-08T22:51:40-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@11377972",
+     "registered_at": "2025-11-17T09:17:30-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@91778915",
+     "registered_at": "2025-11-18T16:25:45-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58247811",
+     "registered_at": "2025-11-16T11:14:06-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@95639213",
+     "registered_at": "2025-11-15T20:57:09-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@21900026",
+     "registered_at": "2025-11-17T02:41:59-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@66428089",
+     "registered_at": "2025-11-15T14:35:41-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@50351493",
+     "registered_at": "2025-11-10T10:16:45-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@72871980",
+     "registered_at": "2025-11-07T20:09:39-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@80021950",
+     "registered_at": "2025-11-18T18:04:23-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@49352432",
+     "registered_at": "2025-11-11T23:18:12-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@96829003",
+     "registered_at": "2025-11-13T16:44:28-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@38874892",
+     "registered_at": "2025-11-14T11:12:53-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@60586740",
+     "registered_at": "2025-11-15T02:04:06-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@20884621",
+     "registered_at": "2025-11-16T20:15:53-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@58176140",
+     "registered_at": "2025-11-18T23:07:28-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@96156675",
+     "registered_at": "2025-11-09T17:35:42-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@21937923",
+     "registered_at": "2025-11-21T00:08:46-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@49259816",
+     "registered_at": "2025-11-07T11:09:48-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@14758562",
+     "registered_at": "2025-11-18T08:21:10-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@71530002",
+     "registered_at": "2025-11-08T13:21:24-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@57172109",
+     "registered_at": "2025-11-19T14:59:22-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@22579161",
+     "registered_at": "2025-11-20T02:51:24-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@39262462",
+     "registered_at": "2025-11-11T19:22:49-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@47450351",
+     "registered_at": "2025-11-17T12:06:40-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@91303443",
+     "registered_at": "2025-11-12T10:31:47-05:00",
+     "checked_in": true
+    },
+    {
+     "student_id": "@79289869",
+     "registered_at": "2025-11-13T03:00:25-05:00",
+     "checked_in": false
+    },
+    {
+     "student_id": "@77327418",
+     "registered_at": "2025-11-13T13:27:04-05:00",
+     "checked_in": true
+    }
+   ]
+  }
+ ]
+}
