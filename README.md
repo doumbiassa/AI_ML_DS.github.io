@@ -116,7 +116,7 @@ events = pd.json_normalize(resp.json()["data"], sep="_")
 
 ## How to cite
 
-> Doumbia, M. (2026). *Messy Data Library: Synthetic practice datasets for data science education* [Data set]. Howard University. https://doumbiassa.github.io/AI_DS_ML.github.io/
+> Doumbia, M. (2026). *Messy Data Library: Synthetic practice datasets for data science education* [Data set]. Howard University. https://doumbiassa.github.io/AI_ML_DS.github.io/#
 
 Cite a single dataset by its record number, for example *Messy Data Library, record MDL-001*.
 
